@@ -3,7 +3,7 @@
 Persistent knowledge base on Anomalous Health Incidents (AHIs). LLM-generated and maintained.
 See [[SCHEMA.md]] for conventions.
 
-Last updated: 2026-04-06
+Last updated: 2026-04-13
 
 ## Timeline Overview
 
@@ -51,6 +51,7 @@ Last updated: 2026-04-06
 **Investigative Journalism**
 - [[fpri-history-behind-mystery-2024]] — FPRI: history and mystery behind Havana Syndrome (Apr 2024)
 - [[60-minutes-2024-2026]] — 60 Minutes/The Insider/Der Spiegel joint investigation
+- [[60-minutes-investigation-2024]] — 60 Minutes full transcript: Grozev, Edgreen, Kovalev, Avarionov, Troye
 
 ## Entities
 
@@ -67,9 +68,15 @@ Last updated: 2026-04-06
 
 **People**
 - [[james-giordano]] — Neuroscientist, lead forensic evaluator of 2016 Havana cases
-- [[rex-t Tillerson]] — Secretary of State during initial crisis period
+- [[rex-tillerson]] — Secretary of State during initial crisis period
 - [[david-relman]] — Stanford professor, lead of NASEM AHI committee
 - [[mark-lenzi]] — State Department officer, AHI victim and whistleblower
+- [[christo-grozev]] — Investigative journalist, The Insider, found "receipt"
+- [[greg-edgreen]] — DIA Lt. Col. (ret.), victim selection pattern discovery
+- [[mark-zaid]] — Attorney representing 24+ AHI victims
+- [[vitalii-kovalev]] — Russian engineer/"Chef," interrogated 80 hrs by FBI
+- [[olivia-troye]] — Former VP Pence advisor, attacked near White House
+- [[albert-avarionov]] — Son of GRU 29155 commander, identified at Tbilisi scene
 
 **Locations**
 - [[guangzhou-consulate]] — U.S. Consulate in China, site of AHI reporting (2018)

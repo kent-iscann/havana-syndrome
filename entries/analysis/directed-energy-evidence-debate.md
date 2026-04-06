@@ -49,7 +49,7 @@ The central unresolved question of Havana Syndrome is whether **directed energy 
 - **Mass psychogenic illness** — explains symptom spread (FBI, Bartholomew & Baloh)
 - **Environmental factors** — HVAC, surveillance equipment, pre-existing conditions
 
-## Current Status (January 2025)
+## Current Status (April 2026)
 
 **Majority view (5 of 7 agencies):** "Very unlikely" foreign adversary involved
 **Minority view (2 of 7 agencies):** "Roughly even chance" on capability/weapon
@@ -58,7 +58,18 @@ The central unresolved question of Havana Syndrome is whether **directed energy 
 
 **IC admission:** "Many unanswered questions" remain. "US adversaries are likely developing directed energy technologies that may plausibly explain some of the reported symptoms."
 
-**2026 developments:** New evidence (RF device acquisition, laser hypothesis) may shift assessments further.
+### New Evidence (60 Minutes, April 2024)
+- **Grozev's "receipt"** — Russian accounting document showing Unit 29155 officer received bonus for "potential capabilities of nonlethal acoustic weapons"
+- **Edgreen's revelation** — Top 5-10% performers against Russia specifically targeted
+- **Avarionov identification** — Unit commander's son identified at attack scene in Tbilisi
+- **Kovalev case** — Russian military electrical engineer on U.S. soil, interrogated 80 hours by FBI
+- **Olivia Troye testimony** — High-ranking VP advisor attacked near White House
+- **Domestic attacks confirmed** — Florida, California, Washington D.C.
+
+### 2026 developments (post-60 Minutes)
+- DHS acquired backpack-sized pulsed RF device for testing (backpack device)
+- Norwegian scientist reportedly tested microwave pulse device on himself with AHI-like effects
+- Laser/optoacoustic hypothesis proposed by Czech Academy fellow
 
 ## Unresolved Questions
 
