@@ -3,7 +3,7 @@ title: "Havana Syndrome — Executive Overview"
 ---
 
 **Status as of:** April 2026  
-**Wiki Version:** v5 (80 pages — 19 summaries, 5 analysis pages, 30+ entity/concept entries, 150+ raw sources)
+**Wiki Version:** v5 (88 pages — 27 summaries, 5 analysis pages, 30+ entity/concept entries, 150+ raw sources)
 
 ---
 
@@ -11,7 +11,7 @@ title: "Havana Syndrome — Executive Overview"
 
 Anomalous Health Incidents (AHIs), commonly called "Havana Syndrome," are a class of unexplained medical events reported by U.S. and allied diplomatic, intelligence, and military personnel worldwide since late 2016. Affected individuals report sudden-onset symptoms including directional pressure, piercing sounds, vertigo, cognitive dysfunction, and sleep disruption — often with immediate relief upon leaving the affected area.
 
-This wiki is a comprehensive knowledge base tracking every major investigation, report, and development. It covers **80 pages** of sourced material spanning government assessments, scientific studies, investigative journalism, and independent analyses. **The case remains officially unresolved.**
+This wiki is a comprehensive knowledge base tracking every major investigation, report, and development. It covers **88 pages** of sourced material spanning government assessments, scientific studies, investigative journalism, and independent analyses. **The case remains officially unresolved.**
 
 ---
 
@@ -89,6 +89,30 @@ A Czech Academy fellow proposed that **pulsed infrared lasers** could create aco
 
 ### Compensation
 The **HAVANA Act of 2021** (PL 117-46) provides compensation for brain injury victims. Over $50M has been paid to affected personnel. The Purple Heart medal for AHI victims remains under debate.
+
+---
+
+## Media Coverage Landscape
+
+### Podcasts
+| Show | Format | Angle |
+|------|--------|-------|
+| **VICE News — *Havana Syndrome*** | 8-episode series (Anderson & Entous) | Investigative; traces global timeline, anonymous CIA source |
+| **Project Brazen — *The Sound*** | 8 chapters (Nicky Woolf) | Investigative; builds device in lab, explores psychogenic theory |
+| **Reveal / CIA — *Havana Syndrome*** | Radio documentary (Jon Lee Anderson) | Balanced; interviews victims, officials, and skeptics |
+
+### Newsletters & Commentary
+| Author | Platform | Angle |
+|--------|----------|-------|
+| **Antony Stokes** (ex-Ambassador to Cuba) | Substack | Insider diplomatic account of AHIs unfolding on the ground |
+| **Sasha Ingber** (journalist) | HUMINT newsletter | Investigative reporting; device testing scoop, compensation crisis |
+| **Dr. Jeremy Faust** (Harvard ER physician) | Substack | Skeptical; argues mass psychogenic illness as alternative explanation |
+| **Marc Polymeropoulos** (26-yr CIA, victim) | War on the Rocks | Victim advocacy; CIA coverup allegations, Situation Room acknowledgment |
+
+### Documentaries
+| Source | Year | Coverage |
+|--------|------|----------|
+| **60 Minutes** (CBS) | 2019–2026 | Multi-part investigation; Grozev's "receipt," Kovalev interrogation, device testing |
 
 ---
 
