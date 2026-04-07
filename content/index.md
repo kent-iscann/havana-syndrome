@@ -1,4 +1,6 @@
-# Havana Syndrome — Executive Overview
+---
+title: "Havana Syndrome — Executive Overview"
+---
 
 **Status as of:** April 2026  
 **Wiki Version:** v5 (80 pages — 19 summaries, 5 analysis pages, 30+ entity/concept entries, 150+ raw sources)

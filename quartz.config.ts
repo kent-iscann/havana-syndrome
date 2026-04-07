@@ -1,16 +1,23 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
+/**
+ * Havana Syndrome Wiki — Quartz 4 Configuration
+ *
+ * See https://quartz.jzhao.xyz/configuration for more information.
+ */
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Havana Syndrome Wiki",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
-    analytics: { provider: "none" },
+    analytics: {
+      provider: "none",
+    },
     locale: "en-US",
     baseUrl: "kent-iscann.github.io/havana-syndrome",
-    ignorePatterns: ["private", "templates", ".obsidian", "**/*.db", "index-original.md", "_templates"],
+    ignorePatterns: ["private", "templates", ".obsidian", "sources", "_templates"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
@@ -49,9 +56,14 @@ const config: QuartzConfig = {
   plugins: {
     transformers: [
       Plugin.FrontMatter(),
-      Plugin.CreatedModifiedDate({ priority: ["frontmatter", "git"] }),
+      Plugin.CreatedModifiedDate({
+        priority: ["frontmatter", "git", "filesystem"],
+      }),
       Plugin.SyntaxHighlighting({
-        theme: { light: "github-light", dark: "github-dark" },
+        theme: {
+          light: "github-light",
+          dark: "github-dark",
+        },
         keepBackground: false,
       }),
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
@@ -68,11 +80,15 @@ const config: QuartzConfig = {
       Plugin.ContentPage(),
       Plugin.FolderPage(),
       Plugin.TagPage(),
-      Plugin.ContentIndex({ enableSiteMap: true, enableRSS: true }),
+      Plugin.ContentIndex({
+        enableSiteMap: true,
+        enableRSS: true,
+      }),
       Plugin.Assets(),
       Plugin.Static(),
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
+      Plugin.CustomOgImages(),
     ],
   },
 }

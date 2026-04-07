@@ -1,2 +1,3 @@
-node_modules/
-public/
+node_modules\npublic
+.git\n
+quartz-site/node_modules/\nquartz-site/public/

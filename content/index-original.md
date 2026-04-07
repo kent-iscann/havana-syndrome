@@ -1,4 +1,6 @@
-# Havana Syndrome — Wiki Index
+---
+title: "Havana Syndrome — Wiki Index"
+---
 
 Persistent knowledge base on Anomalous Health Incidents (AHIs). LLM-generated and maintained.
 See [[SCHEMA.md]] for conventions.

@@ -36,13 +36,21 @@ jobs:
         run: |
           rm -rf quartz/content/*
           mkdir -p quartz/content
-          cp -r content/entries quartz/content/
+          # Copy all folders (analysis, concepts, entities, summaries) directly into content/
+          for dir in content/*/; do
+            if [ "$dir" != "content/sources/" ] && [ "$dir" != "content/_templates/" ]; then
+              cp -r "$dir" quartz/content/
+            fi
+          done
+          # Copy root index
           if [ -f "content/index.md" ]; then
             cp content/index.md quartz/content/index.md
           fi
 
-      - name: Copy custom config
-        run: cp quartz.config.ts quartz/quartz.config.ts
+      - name: Copy custom config and layout
+        run: |
+          cp quartz.config.ts quartz/quartz.config.ts
+          cp quartz.layout.ts quartz/quartz.layout.ts
 
       - name: Install Quartz dependencies
         working-directory: quartz
