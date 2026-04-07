@@ -180,7 +180,7 @@ No United Nations investigation or formal response to Havana Syndrome. The issue
 - [[gru-unit-29155-evidence|GRU Unit 29155 Evidence]]
 - [[60-minutes-investigation-2024|60 Minutes/The Insider/Der Spiegel Joint Investigation 2024]]
 - [[victim-statistics|Victim Statistics and Data Overview]]
-- [[moscow-signal-to-havana-syndrome|Moscow Signal to Havana Syndrome]]
+- [[moscow-signal-precedent|Moscow Signal to Havana Syndrome]]
 
 ## Sources
 

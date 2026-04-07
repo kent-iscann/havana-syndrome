@@ -2,10 +2,6 @@
 title: "Competing Causation Hypotheses"
 ---
 
-
-**Type:** Analysis — Comparative Theory Assessment
-**Updated:** 2026-04-13
-
 ## Overview
 
 The central question of Havana Syndrome — what caused the reported symptoms — has produced multiple competing hypotheses. This page systematically compares them, assesses their evidence, and tracks which institutions support which view.
@@ -31,13 +27,28 @@ The central question of Havana Syndrome — what caused the reported symptoms �
 
 **Support:** NASEM (2020), Giordano (2017, 2024), DNI Scientific Panel (2022), 60 Minutes investigation
 
+**Scientific Endorsements:**
+| Source | Finding | Date |
+|--------|---------|------|
+| **NASEM** | Pulsed RF energy **"most plausible"** for subset | Dec 2020 |
+| **Giordano forensic evaluation** | Ultrasonic + pulsed microwave **high probability** | 2017, 2024 |
+| **DNI Scientific Panel** | Pulsed electromagnetic + ultrasound **"plausible"** | 2022 |
+| **Czech Academy hypothesis** | Pulsed infrared lasers (optoacoustic) viable | 2026 |
+
 **Evidence:**
 - Acute symptoms match known RF effects (Fry Effect for auditory, non-thermal)
 - Directional and room-specific features consistent with focused beam
 - Immediate relief upon moving to different room suggests physical force penetrating windows
-- Technologies were extant and operational by 2016
+- Technologies were **"extant, scalable, fieldable, in operational use"** by 2016 (Giordano)
 - GRU Unit 29155 found to have acoustic weapons development program (2024 accounting document)
 - U.S. Homeland Security acquired backpack-sized RF device for testing (2026)
+- **Norwegian scientist** reportedly tested microwave pulse device on himself with AHI-like effects (2026)
+
+**Clinical Evidence:**
+- **Directional specific features** — symptoms specific to one room but not adjacent (NASEM)
+- Temporal clustering at specific diplomatic postings
+- Consistency of symptom constellation across multiple countries
+- NASEM: **"unlike any disorder in neurological or general medical literature"**
 
 **Gaps:**
 - No intercepted communications linking foreign actor to specific incidents
@@ -92,7 +103,7 @@ The central question of Havana Syndrome — what caused the reported symptoms �
 **Support:** Cuban Academy of Sciences (2021)
 
 **Evidence:**
-- Zika epidemic was epidemic in Cuba during 2016-2017
+- Zika epidemic was concurrent in Cuba during 2016-2017
 - Zika known to cause neurological complications (Guillain-Barré, vestibular disease) in 0.1-0.2% of cases
 
 **Gaps:**
@@ -122,6 +133,44 @@ The central question of Havana Syndrome — what caused the reported symptoms �
 
 ---
 
+## The Skeptical Camp — Evidence Against Directed Energy
+
+### Intelligence Assessments
+| Source | Finding | Date |
+|--------|---------|------|
+| **CIA Interim Report** | Foreign adversary involvement **"unlikely"** | Feb 2022 |
+| **ODNI Assessment** | 7 agencies: **"very unlikely"** | 2023 |
+| **ODNI Update** | 2 of 7 agencies shift to "roughly even chance" | Jan 2025 |
+
+### Medical Evidence Against
+| Source | Finding | Date |
+|--------|---------|------|
+| **NIH JAMA Studies** | No MRI-detectable brain injury biomarkers | Mar 2024 |
+| **University of Pennsylvania** | Brain network injury (later disputed) | 2018 |
+
+### Alternative Explanations
+- **Indies short-tailed cricket** — explains audio recordings (JASON report)
+- **Mass psychogenic illness** — explains symptom spread (FBI, Bartholomew & Baloh)
+- **Environmental factors** — HVAC, surveillance equipment, pre-existing conditions
+
+### Current Status (April 2026)
+**Majority view (5 of 7 agencies):** "Very unlikely" foreign adversary involved
+**Minority view (2 of 7 agencies):** "Roughly even chance" on capability/weapon
+
+**Critical caveat:** All assessments at "low confidence." No agency has high confidence in any position.
+
+**IC admission:** "Many unanswered questions" remain. "US adversaries are likely developing directed energy technologies that may plausibly explain some of the reported symptoms."
+
+**New Evidence (60 Minutes, April 2024):**
+- **Grozev's "receipt"** — Russian accounting document showing Unit 29155 officer received bonus for "potential capabilities of nonlethal acoustic weapons"
+- **Edgreen's revelation** — Top 5-10% performers against Russia specifically targeted
+- **Avarionov identification** — Unit commander's son identified at attack scene in Tbilisi
+- **Kovalev case** — Russian military electrical engineer on U.S. soil, interrogated 80 hours by FBI
+- **Olivia Troye testimony** — High-ranking VP advisor attacked near White House
+- **Domestic attacks confirmed** — Florida, California, Washington D.C.
+
+---
+
 ## Conclusion: Different Causes for Different Cohorts?
 
 The evidence increasingly suggests that **AHIs may not have a single cause**:
@@ -135,8 +184,9 @@ This "multiple causes" hypothesis would explain why no single investigation has 
 
 ## Connected Pages
 
-- [[directed-energy-evidence-debate|Directed Energy Evidence Debate]] — Focused debate on directed energy
 - [[gru-unit-29155-evidence|GRU Unit 29155 — Evidence Assessment]] — Evidence for Russian involvement
 - [[friedman-canadian-diplomats-2019|Friedman et al. — Canadian Diplomats: Brain Imaging Reveals Acquired Neurotoxicity]] — Organophosphate study
-- [[nasem-report-2020|NASEM Report — An Assessment of Illness in U.S. Government Employees at Overseas Embassies]] — Directed energy endorsement
-- [[60-minutes-investigation-2024|60 Minutes Investigation — Havana Syndrome & The Russian Nexus]] — Latest evidence
+- [[nasem-report-2020|NASEM Report — An Assessment of Illness in U.S. Government Employees]] — Directed energy endorsement
+- [[60-minutes-investigation-2024|60 Minutes Investigation — Havana Syndrome & The Russian Nexus]] — Key evidence
+- [[mass-psychogenic-illness|Mass Psychogenic Illness]] — Alternative hypothesis
+- [[directed-energy-weapons|Directed Energy Weapons]] — Weapon types

@@ -1,5 +1,5 @@
 ---
-title: "Global Incident Incident Map and Timeline"
+title: "Global Incident Map"
 ---
 
 
@@ -150,7 +150,7 @@ This pattern is consistent across Cuba, Vienna, Moscow, Georgia, and potentially
 
 ## Connected Pages
 
-- [[directed-energy-evidence-debate|Directed Energy Evidence Debate]] — Evidence for weapons
+- [[competing-causation-hypotheses|Competing Causation Hypotheses]] — Evidence for weapons
 - [[gru-unit-29155-evidence|GRU Unit 29155 — Evidence Assessment]] — GRU tracking correlation
 - [[competing-causation-hypotheses|Competing Causation Hypotheses]] — All hypothesis comparison
 - [[frankfurt-germany]] — Earliest reported location

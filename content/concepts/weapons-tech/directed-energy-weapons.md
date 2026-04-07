@@ -56,4 +56,4 @@ Directed energy weapons (DEWs) focus energy (electromagnetic, acoustic, or therm
 
 - [[giordano-ndm-2024|Giordano — Directed Energy Remains Key Suspect Behind Havana Syndrome]]
 - [[fpri-history-behind-mystery-2024|FPRI — Havana Syndrome: The History Behind the Mystery]]
-- [[directed-energy-evidence-debate|Directed Energy Evidence Debate]]
+- [[competing-causation-hypotheses|Competing Causation Hypotheses]]

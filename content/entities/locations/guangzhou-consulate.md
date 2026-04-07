@@ -21,7 +21,7 @@ U.S. Consulate in Guangzhou, China. In May 2018, an employee reported AHI sympto
 
 - [[state-department|State Department — U.S. Department of State]] — Responsible embassy authority
 - [[arb-report-2018|Arb Report 2018 — Accountability Review Board]] — Confirmed the Guangzhou case
-- [[moscow-signal-to-havana-syndrome|Moscow Signal to Havana Syndrome — Historical Continuity]] — Global pattern context
+- [[moscow-signal-precedent|The Moscow Signal Precedent]] — Global pattern context
 
 ## Sources
 

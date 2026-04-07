@@ -28,7 +28,7 @@ This series is part of IScann's "Next Level Threat" content portfolio covering g
 - [[vice-news-havana-syndrome-podcast|VICE News Havana Syndrome Podcast]] — Major podcast counterpart
 - [[gru-unit-29155-evidence|GRU Unit 29155 — Evidence Assessment]] — Attribution evidence discussed in episodes
 - [[anomalous-health-incidents|Anomalous Health Incidents — Official Terminology]] — Core subject matter
-- [[moscow-signal-to-havana-syndrome|Moscow Signal to Havana Syndrome — Historical Continuity]] — Historical context likely covered
+- [[moscow-signal-precedent|The Moscow Signal Precedent]] — Historical context likely covered
 
 ## Sources
 

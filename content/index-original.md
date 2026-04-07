@@ -134,9 +134,9 @@ Last updated: 2026-04-13 (v5)
 
 ## Analysis Pages
 
-- [[moscow-signal-to-havana-syndrome|Moscow Signal to Havana Syndrome — Historical Continuity]] — Historical continuity from Cold War microwave to modern AHIs
+- [[moscow-signal-precedent|The Moscow Signal Precedent]] — Historical continuity from Cold War microwave to modern AHIs
 - [[gru-unit-29155-evidence|GRU Unit 29155 — Evidence Assessment]] — Assessment of evidence linking Russia to AHIs
-- [[directed-energy-evidence-debate|Directed Energy Evidence Debate]] — Directed energy vs. alternative hypotheses
+- [[competing-causation-hypotheses|Competing Causation Hypotheses]] — Directed energy vs. alternative hypotheses
 - [[competing-causation-hypotheses|Competing Causation Hypotheses]] — Systematic comparison of all major hypotheses
 - [[global-incident-map|Global Incident Incident Map and Timeline]] — Geographic and temporal mapping of all documented incidents
 - [[treatments-and-recovery|Treatments and Recovery — AHI Victim Care]] — Medical treatments, Purple Heart debate, HBOT outcomes

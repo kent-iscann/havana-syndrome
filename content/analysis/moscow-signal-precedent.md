@@ -1,5 +1,5 @@
 ---
-title: "Moscow Signal to Havana Syndrome — Historical Continuity"
+title: "The Moscow Signal Precedent"
 ---
 
 
@@ -66,4 +66,4 @@ The U.S. government's historical pattern of **concealing and tolerating** Soviet
 ## Sources
 
 - [[fpri-history-behind-mystery-2024|FPRI — Havana Syndrome: The History Behind the Mystery]]
-- [[directed-energy-evidence-debate|Directed Energy Evidence Debate]]
+- [[competing-causation-hypotheses|Competing Causation Hypotheses]]

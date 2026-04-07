@@ -1,5 +1,5 @@
 ---
-title: "Master Timeline: Havana Syndrome from Moscow Signal to 2026"
+title: "Master Timeline"
 ---
 
 
@@ -95,14 +95,14 @@ A comprehensive chronological timeline of Havana Syndrome and its historical ant
 
 ## Connected Pages
 
-- [[moscow-signal-to-havana-syndrome|Moscow Signal to Havana Syndrome]] — Historical precursor from 1953–1979
+- [[moscow-signal-precedent|Moscow Signal to Havana Syndrome]] — Historical precursor from 1953–1979
 - [[havana-act-2021|HAVANA Act of 2021 — Compensation for Brain Injury Victims]]
 - [[nasem-report-2020|NASEM Report 2020 — Directed RF Energy "Most Plausible"]]
 - [[60-minutes-investigation-2024|60 Minutes/The Insider/Der Spiegel Joint Investigation 2024]]
 - [[odni-assessment-2023-2025|ODNI Assessments 2023–2025]]
 - [[senate-intel-committee-report-2024|Senate Intelligence Committee Report 2024]]
 - [[hpsci-congressional-investigation-2024|House Intelligence Committee Investigation]]
-- [[directed-energy-evidence-debate|Directed Energy Evidence Debate]]
+- [[competing-causation-hypotheses|Competing Causation Hypotheses]]
 - [[war-on-the-rocks-we-were-right-2026|War on the Rocks — "We Were Right" by Marc Polymeropoulos]]
 - [[venezuela-device-recovery-2026|DHS Device Recovery 2026]]
 - [[gru-unit-29155-evidence|GRU Unit 29155 Evidence]]

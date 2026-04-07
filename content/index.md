@@ -144,7 +144,7 @@ The **HAVANA Act of 2021** (PL 117-46) provides compensation for brain injury vi
 4. **[[competing-causation-hypotheses|Competing Causation Hypotheses]]** — Systematic comparison of all theories
 5. **[[60-minutes-investigation-2024|60 Minutes Investigation — Havana Syndrome & The Russian Nexus]]** — The most comprehensive journalistic investigation
 6. **[[venezuela-device-recovery-2026|Venezuela / Directed Energy Device Recovery — 2026]]** — The first physical device evidence
-7. **[[moscow-signal-to-havana-syndrome|Moscow Signal to Havana Syndrome — Historical Continuity]]** — Historical context from the Cold War
+7. **[[moscow-signal-precedent|The Moscow Signal Precedent]]** — Historical context from the Cold War
 
 ### Key Analysis Pages
 8. **[[master-timeline|Master Timeline]]** — Chronological overview from the Moscow Signal (1953) through 2026

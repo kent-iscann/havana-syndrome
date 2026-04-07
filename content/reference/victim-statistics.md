@@ -1,5 +1,5 @@
 ---
-title: "Victim Statistics and Data Overview — Havana Syndrome"
+title: "Victim Statistics & Data"
 ---
 
 

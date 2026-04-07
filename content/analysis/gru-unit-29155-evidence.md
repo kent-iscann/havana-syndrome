@@ -78,5 +78,5 @@ The case against Unit 29155 is now the **strongest single attribution theory** f
 - [[vitalii-kovalev|Vitalii Kovalev — ]] — Russian engineer linked to program
 - [[60-minutes-investigation-2024|60 Minutes Investigation — Havana Syndrome & The Russian Nexus]] — Full transcript
 - [[fpri-history-behind-mystery-2024|FPRI — Havana Syndrome: The History Behind the Mystery]] — Regenstein's analysis
-- [[directed-energy-evidence-debate|Directed Energy Evidence Debate]] — Broader causation debate
-- [[moscow-signal-to-havana-syndrome|Moscow Signal to Havana Syndrome — Historical Continuity]] — Historical context
+- [[competing-causation-hypotheses|Competing Causation Hypotheses]] — Broader causation debate
+- [[moscow-signal-precedent|The Moscow Signal Precedent]] — Historical context
