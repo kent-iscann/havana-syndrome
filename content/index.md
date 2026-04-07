@@ -113,6 +113,15 @@ The **HAVANA Act of 2021** (PL 117-46) provides compensation for brain injury vi
 | Source | Year | Coverage |
 |--------|------|----------|
 | **60 Minutes** (CBS) | 2019–2026 | Multi-part investigation; Grozev's "receipt," Kovalev interrogation, device testing |
+| **BBC — The Mystery of Havana Syndrome** (Gordon Corera) | 2021 | International public broadcaster; balanced multi-hypothesis examination |
+
+### Major Print & Broadcast Media
+| Outlet | Piece | Date | Angle |
+|--------|-------|------|-------|
+| **The New Yorker** | "Are U.S. Officials Under Silent Attack?" (Adam Entous) | May 2021 | Definitive long-form; White House incident, UPenn brain findings, Burns calls them "attacks" |
+| **The New Yorker** | "Vienna Is the New Havana Syndrome Hot Spot" | May 2021 | Vienna cluster emerges as #2 after Havana |
+| **Foreign Policy** | "U.S. Diplomats and Spies Likely Targeted by Radio Waves" | Dec 2020 | Broke NASEM's RF energy findings to policy audience |
+| **The Atlantic** | "The Consensus on Havana Syndrome Is Cracking" | Jan 2025 | ODNI shift; NSA changes stance to "roughly even chance" |
 
 ---
 
