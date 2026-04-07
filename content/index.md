@@ -3,7 +3,7 @@ title: "Havana Syndrome — Executive Overview"
 ---
 
 **Status as of:** April 2026  
-**Wiki Version:** v6 (93 pages — 33 summaries, 4 analysis pages, 4 reference pages, 30+ entity/concept entries, 150+ raw sources)
+**Wiki Version:** v7 (94 pages — analysis, summaries, media subgroups, reference, entities/concepts)
 
 ---
 
@@ -144,16 +144,15 @@ The **HAVANA Act of 2021** (PL 117-46) provides compensation for brain injury vi
 6. **[[venezuela-device-recovery-2026|Venezuela / Directed Energy Device Recovery — 2026]]** — The first physical device evidence
 7. **[[moscow-signal-precedent|The Moscow Signal Precedent]]** — Historical context from the Cold War (1953–1970s Moscow Signal)
 
-### Reference Data
-8. **[[master-timeline|Master Timeline]]** — Full chronological timeline from the Moscow Signal through 2026
-9. **[[victim-statistics|Victim Statistics & Data]]** — Numbers by agency, location, and compensation
-10. **[[global-incident-map|Global Incident Map]]** — Geographic and temporal mapping of all documented AHIs
-
 ### Key Analysis
-11. **[[international-coverage|International Coverage]]** — Non-Anglosphere media and government perspectives
-12. **[[havana-syndrome-2026-developments|2026 Current Developments]]** — Latest news including device testing and political shifts
+8. **[[havana-syndrome-2026-developments|2026 Current Developments]]** — Device testing, Norwegian experiment, political shifts
+9. **[[international-coverage|International Coverage]]** — Non-Anglosphere media and government perspectives
 
-### Key Entities to Know
+### Reference Data
+10. **[[master-timeline|Master Timeline]]** — Full chronological timeline from Moscow Signal through 2026
+11. **[[victim-statistics|Victim Statistics & Data]]** — Numbers by agency, location, and compensation
+12. **[[global-incident-map|Global Incident Map]]** — Geographic and temporal mapping of all documented AHIs
+
 ### Key Entities to Know
 - **[[gru-unit-29155|GRU Unit 29155]]** — Russian military intelligence unit linked to covert ops
 - **[[christo-grozev|Christo Grozev]]** — Journalist who found the "receipt" for acoustic weapons
