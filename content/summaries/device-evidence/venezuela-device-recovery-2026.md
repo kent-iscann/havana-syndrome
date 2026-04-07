@@ -42,9 +42,9 @@ In February 2026, a Norwegian researcher built a microwave pulse device and **te
 
 ## Connected Pages
 
-- [[60-minutes-investigation-2024]] — Investigation covering device
-- [[directed-energy-weapons]] — Device category
-- [[pulsed-rf-microwave]] — Specific technology
+- [[60-minutes-investigation-2024|60 Minutes Investigation — Havana Syndrome & The Russian Nexus]] — Investigation covering device
+- [[directed-energy-weapons|Directed Energy Weapons]] — Device category
+- [[pulsed-rf-microwave|Pulsed RF/Microwave Radiation]] — Specific technology
 
 ## Sources
 

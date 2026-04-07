@@ -41,11 +41,11 @@ This piece was one of the first major magazine features to comprehensively docum
 
 ## Connected Pages
 
-- [[gru-unit-29155-evidence]] — GRU attribution evidence
-- [[vienna-embassy]] — Vienna became the next hotspot covered in follow-up
-- [[directed-energy-weapons]] — Technology underlying the attack theory
-- [[60-minutes-investigation-2024]] — Later investigative journalism in similar vein
-- [[pulsed-rf-microwave]] — Specific weapon technology
+- [[gru-unit-29155-evidence|GRU Unit 29155 — Evidence Assessment]] — GRU attribution evidence
+- [[vienna-embassy|Vienna Embassy — U.S. Embassy Austria]] — Vienna became the next hotspot covered in follow-up
+- [[directed-energy-weapons|Directed Energy Weapons]] — Technology underlying the attack theory
+- [[60-minutes-investigation-2024|60 Minutes Investigation — Havana Syndrome & The Russian Nexus]] — Later investigative journalism in similar vein
+- [[pulsed-rf-microwave|Pulsed RF/Microwave Radiation]] — Specific weapon technology
 
 ## Sources
 

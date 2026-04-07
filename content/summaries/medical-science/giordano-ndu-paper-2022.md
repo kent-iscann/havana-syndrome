@@ -31,13 +31,13 @@ Published by NDU's Center for the Study of Weapons of Mass Destruction (CDTFW), 
 ## Entities Mentioned
 
 - [[james-giordano]] — Lead author, consulting neuroscientist
-- [[diane-dieuliis]] — Co-author, Center for the Study of Weapons of Mass Destruction, NDU
-- [[odni]] — Referenced for threat assessment framing
+- [[diane-dieuliis|Diane DiEuliis — Center for the Study of Weapons of Mass Destruction]] — Co-author, Center for the Study of Weapons of Mass Destruction, NDU
+- [[odni|ODNI — Office of the Director of National Intelligence]] — Referenced for threat assessment framing
 
 ## Concepts
 
-- [[anomalous-health-incidents]] — Primary subject
-- [[directed-energy-weapons]] — Valid and viable possibility
+- [[anomalous-health-incidents|Anomalous Health Incidents — Official Terminology]] — Primary subject
+- [[directed-energy-weapons|Directed Energy Weapons]] — Valid and viable possibility
 - [[biosecurity]] — Broader framework context
 
 ## Source

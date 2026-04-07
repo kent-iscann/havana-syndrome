@@ -28,17 +28,17 @@ The ODNI leads U.S. intelligence community coordination and produces the Annual 
 
 ## Entities Connected
 
-- [[cia]] — Primary agency contributing to assessments
+- [[cia|Central Intelligence Agency (CIA)]] — Primary agency contributing to assessments
 - [[nsa]] — Reportedly one of two agencies that shifted
-- [[senate-intel-committee-report-2024]] — Report referencing ODNI assessment
+- [[senate-intel-committee-report-2024|Senate Intelligence Committee — CIA Mishandling of Havana Syndrome Cases]] — Report referencing ODNI assessment
 
 ## Concepts
 
-- [[anomalous-health-incidents]] — Primary subject of ODNI assessments
-- [[directed-energy-weapons]] — Technology category under review
+- [[anomalous-health-incidents|Anomalous Health Incidents — Official Terminology]] — Primary subject of ODNI assessments
+- [[directed-energy-weapons|Directed Energy Weapons]] — Technology category under review
 
 ## Sources
 
-- [[odni-assessment-2023-2025]]
-- [[cnn-new-intelligence-2025]]
-- [[giordano-ndu-paper-2022]]
+- [[odni-assessment-2023-2025|ODNI Assessment — Intelligence Community Evaluation of AHIs]]
+- [[cnn-new-intelligence-2025|CNN Analysis — New Intelligence on Havana Syndrome]]
+- [[giordano-ndu-paper-2022|Giordano & DiEuliis — Anomalous Health Incidents and Global Biosecurity]]

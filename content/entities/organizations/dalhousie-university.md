@@ -27,14 +27,14 @@ Dalhousie University, in collaboration with the University of Pennsylvania, cond
 
 ## Entities Connected
 
-- [[friedman-canadian-diplomats-2019]] — Primary Dalhousie study
+- [[friedman-canadian-diplomats-2019|Friedman et al. — Canadian Diplomats: Brain Imaging Reveals Acquired Neurotoxicity]] — Primary Dalhousie study
 
 ## Concepts
 
-- [[organophosphate-neurotoxicity]] — Leading hypothesis from Dalhousie
-- [[blood-brain-barrier-injury]] — Specific pathology detected
+- [[organophosphate-neurotoxicity|Organophosphate Neurotoxicity]] — Leading hypothesis from Dalhousie
+- [[blood-brain-barrier-injury|Blood-Brain Barrier Injury]] — Specific pathology detected
 
 ## Sources
 
-- [[friedman-canadian-diplomats-2019]]
-- [[nasem-report-2020]]
+- [[friedman-canadian-diplomats-2019|Friedman et al. — Canadian Diplomats: Brain Imaging Reveals Acquired Neurotoxicity]]
+- [[nasem-report-2020|NASEM Report — An Assessment of Illness in U.S. Government Employees at Overseas Embassies]]

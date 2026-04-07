@@ -43,14 +43,14 @@ CDC evaluated the **Havana Acquired Brain Injury Tool (HABIT)** — the State De
 
 ## Entities Connected
 
-- [[state-department]] — Commissioned CDC, delayed data access
-- [[cdc-final-report-2019]] — Primary CDC document
+- [[state-department|State Department — U.S. Department of State]] — Commissioned CDC, delayed data access
+- [[cdc-final-report-2019|CDC Final Report — Cuba Unexplained Events Investigation]] — Primary CDC document
 
 ## Concepts
 
-- [[anomalous-health-incidents]] — Subject of CDC investigation
-- [[epidemiological-investigation]] — Method used
+- [[anomalous-health-incidents|Anomalous Health Incidents — Official Terminology]] — Subject of CDC investigation
+- [[epidemiological-investigation|Epidemiological Investigation]] — Method used
 
 ## Sources
 
-- [[cdc-final-report-2019]]
+- [[cdc-final-report-2019|CDC Final Report — Cuba Unexplained Events Investigation]]

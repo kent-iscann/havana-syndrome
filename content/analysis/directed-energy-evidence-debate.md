@@ -84,6 +84,6 @@ The central unresolved question of Havana Syndrome is whether **directed energy 
 
 ## Connected Pages
 
-- [[directed-energy-weapons]] — Weapon types under debate
-- [[mass-psychogenic-illness]] — Alternative hypothesis
-- [[odni-assessment-2023-2025]] — Intelligence community position
+- [[directed-energy-weapons|Directed Energy Weapons]] — Weapon types under debate
+- [[mass-psychogenic-illness|Mass Psychogenic Illness]] — Alternative hypothesis
+- [[odni-assessment-2023-2025|ODNI Assessment — Intelligence Community Evaluation of AHIs]] — Intelligence community position

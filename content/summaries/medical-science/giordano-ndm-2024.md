@@ -60,13 +60,13 @@ Giordano's 2017 findings were later corroborated by the 2020 NASEM report:
 ## Entities Mentioned
 
 - [[james-giordano]] — Author, consulting neuroscientist
-- [[david-relman]] — NASEM committee leader whose findings corroborated Giordano
+- [[david-relman|David Relman — Stanford Professor, NASEM Committee Lead]] — NASEM committee leader whose findings corroborated Giordano
 
 ## Concepts
 
-- [[directed-energy-weapons]] — Primary suspect
-- [[fry-effect]] — Mechanism for auditory perception of pulsed microwaves
-- [[ultrasonic-weapons]] — Alternative/complementary cause
+- [[directed-energy-weapons|Directed Energy Weapons]] — Primary suspect
+- [[fry-effect|Fry Effect — Microwave Auditory Phenomenon]] — Mechanism for auditory perception of pulsed microwaves
+- [[ultrasonic-weapons|Ultrasonic Weapons]] — Alternative/complementary cause
 
 ## Source
 

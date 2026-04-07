@@ -33,10 +33,10 @@ The NASEM committee (2020) found that PPPD could explain the **chronic phase** o
 
 ## Connected Concepts
 
-- [[havana-syndrome-symptoms]] — Chronic symptom component
-- [[anomalous-health-incidents]] — Subject of PPPD assessment
-- [[mass-psychogenic-illness]] — Often confused with PPPD, but PPPD is functional (not psychogenic)
+- [[havana-syndrome-symptoms|Havana Syndrome — Clinical Symptoms]] — Chronic symptom component
+- [[anomalous-health-incidents|Anomalous Health Incidents — Official Terminology]] — Subject of PPPD assessment
+- [[mass-psychogenic-illness|Mass Psychogenic Illness]] — Often confused with PPPD, but PPPD is functional (not psychogenic)
 
 ## Sources
 
-- [[nasem-report-2020]] — Sections on chronic treatment and rehabilitation
+- [[nasem-report-2020|NASEM Report — An Assessment of Illness in U.S. Government Employees at Overseas Embassies]] — Sections on chronic treatment and rehabilitation

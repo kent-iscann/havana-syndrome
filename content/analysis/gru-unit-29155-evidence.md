@@ -73,10 +73,10 @@ The case against Unit 29155 is now the **strongest single attribution theory** f
 
 ## Connected Pages
 
-- [[gru-unit-29155]] — Unit profile
-- [[christo-grozev]] — Journalist who found the "receipt"
-- [[vitalii-kovalev]] — Russian engineer linked to program
-- [[60-minutes-investigation-2024]] — Full transcript
-- [[fpri-history-behind-mystery-2024]] — Regenstein's analysis
-- [[directed-energy-evidence-debate]] — Broader causation debate
-- [[moscow-signal-to-havana-syndrome]] — Historical context
+- [[gru-unit-29155|GRU Unit 29155]] — Unit profile
+- [[christo-grozev|Christo Grozev — Investigative Journalist]] — Journalist who found the "receipt"
+- [[vitalii-kovalev|Vitalii Kovalev — ]] — Russian engineer linked to program
+- [[60-minutes-investigation-2024|60 Minutes Investigation — Havana Syndrome & The Russian Nexus]] — Full transcript
+- [[fpri-history-behind-mystery-2024|FPRI — Havana Syndrome: The History Behind the Mystery]] — Regenstein's analysis
+- [[directed-energy-evidence-debate|Directed Energy Evidence Debate]] — Broader causation debate
+- [[moscow-signal-to-havana-syndrome|Moscow Signal to Havana Syndrome — Historical Continuity]] — Historical context

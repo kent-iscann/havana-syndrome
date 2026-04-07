@@ -34,8 +34,8 @@ Short pulses of infrared laser light are absorbed by tissue, causing rapid therm
 
 ## Connected Concepts
 
-- [[directed-energy-weapons]] — Parent category
-- [[fry-effect]] — Analogous phenomenon (RF producing sound)
+- [[directed-energy-weapons|Directed Energy Weapons]] — Parent category
+- [[fry-effect|Fry Effect — Microwave Auditory Phenomenon]] — Analogous phenomenon (RF producing sound)
 
 ## Sources
 

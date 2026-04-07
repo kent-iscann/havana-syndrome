@@ -20,13 +20,13 @@ This document is the closest thing to **documentary proof** yet obtained connect
 
 ## Entities Connected
 
-- [[gru-unit-29155]] — Unit documented with acoustic weapons work
-- [[albert-avarionov]] — Individual identified through investigations
+- [[gru-unit-29155|GRU Unit 29155]] — Unit documented with acoustic weapons work
+- [[albert-avarionov|Albert Avarionov — Son of GRU Unit 29155 Commander]] — Individual identified through investigations
 
 ## Concepts
 
-- [[directed-energy-weapons]] — Weapons documented in accounting records
+- [[directed-energy-weapons|Directed Energy Weapons]] — Weapons documented in accounting records
 
 ## Sources
 
-- [[60-minutes-investigation-2024]]
+- [[60-minutes-investigation-2024|60 Minutes Investigation — Havana Syndrome & The Russian Nexus]]

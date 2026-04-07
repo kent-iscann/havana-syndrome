@@ -46,16 +46,16 @@ A comprehensive historical analysis connecting Havana Syndrome to the **Moscow S
 
 ## Entities Mentioned
 
-- [[gru-unit-29155]] — GRU unit linked to attacks
-- [[fsb]] — Russian intelligence, officers tracked near targets
+- [[gru-unit-29155|GRU Unit 29155]] — GRU unit linked to attacks
+- [[fsb|FSB — Federal Security Service of Russia]] — Russian intelligence, officers tracked near targets
 - [[james-giordano]] — Cited for forensic evaluation
-- [[mark-lenzi]] — Victim and critic of government response
+- [[mark-lenzi|Mark Lenzi — State Department Officer, AHI Victim, Whistleblower]] — Victim and critic of government response
 
 ## Concepts
 
 - [[moskva-signal]] — Historical precedent
-- [[directed-energy-weapons]] — Mechanism connecting historical to modern
-- [[anomalous-health-incidents]] — Official term
+- [[directed-energy-weapons|Directed Energy Weapons]] — Mechanism connecting historical to modern
+- [[anomalous-health-incidents|Anomalous Health Incidents — Official Terminology]] — Official term
 
 ## Source
 

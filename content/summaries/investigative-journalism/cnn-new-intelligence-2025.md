@@ -39,14 +39,14 @@ CNN reported on a new unclassified ODNI summary revealing a **split in the intel
 
 ## Entities Mentioned
 
-- [[odni]] — Issued summary report
-- [[mark-lenzi]] — Victim and whistleblower criticizing assessment
+- [[odni|ODNI — Office of the Director of National Intelligence]] — Issued summary report
+- [[mark-lenzi|Mark Lenzi — State Department Officer, AHI Victim, Whistleblower]] — Victim and whistleblower criticizing assessment
 - [[nsa]] — Reportedly one of two agencies that shifted
 
 ## Concepts
 
-- [[directed-energy-weapons]] — Foreign research programs "making progress"
-- [[anomalous-health-incidents]] — Official term
+- [[directed-energy-weapons|Directed Energy Weapons]] — Foreign research programs "making progress"
+- [[anomalous-health-incidents|Anomalous Health Incidents — Official Terminology]] — Official term
 
 ## Source
 

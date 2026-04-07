@@ -99,11 +99,11 @@ When U.S. intelligence assessments shifted against foreign adversary involvement
 
 ## Connected Pages
 
-- [[friedman-canadian-diplomats-2019]] — Dalhousie study commissioned by GAC
+- [[friedman-canadian-diplomats-2019|Friedman et al. — Canadian Diplomats: Brain Imaging Reveals Acquired Neurotoxicity]] — Dalhousie study commissioned by GAC
 - [[golder-associates]] — Environmental assessment firm
 - [[rcmp]] — Criminal investigation (Project Spectre)
 - [[csis]] — Canadian Security Intelligence Service
-- [[organophosphate-neurotoxicity]] — Leading chemical hypothesis
+- [[organophosphate-neurotoxicity|Organophosphate Neurotoxicity]] — Leading chemical hypothesis
 
 ## Sources
 

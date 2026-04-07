@@ -74,9 +74,9 @@ The New York Times filed a lawsuit seeking release of the FBI report. The court 
 ## Connected Pages
 
 - [[fbi]] — Agency conducting investigation
-- [[mass-psychogenic-illness]] — Primary FBI assessment
-- [[vitalii-kovalev]] — Subject of 80-hour FBI interview
-- [[jason-report-2018]] — Contradicts FBI's dismissal of physical attack
+- [[mass-psychogenic-illness|Mass Psychogenic Illness]] — Primary FBI assessment
+- [[vitalii-kovalev|Vitalii Kovalev — ]] — Subject of 80-hour FBI interview
+- [[jason-report-2018|JASON Advisory Group — Havana Syndrome Report]] — Contradicts FBI's dismissal of physical attack
 
 ## Sources
 

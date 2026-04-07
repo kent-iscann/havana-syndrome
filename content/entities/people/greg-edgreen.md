@@ -26,13 +26,13 @@ Edgreen suggests the U.S. government set an **"impossibly high evidentiary bar"*
 ## Entities Connected
 
 - [[defense-intelligence-agency]] — Agency where Edgreen served
-- [[mark-zaid]] — Attorney for AHI victims, shares similar criticism
+- [[mark-zaid|Mark Zaid — Attorney for AHI Victims]] — Attorney for AHI victims, shares similar criticism
 
 ## Concepts
 
-- [[anomalous-health-incidents]] — Subject of investigation
-- [[directed-energy-weapons]] — Probable cause identified by Edgreen
+- [[anomalous-health-incidents|Anomalous Health Incidents — Official Terminology]] — Subject of investigation
+- [[directed-energy-weapons|Directed Energy Weapons]] — Probable cause identified by Edgreen
 
 ## Sources
 
-- [[60-minutes-investigation-2024]]
+- [[60-minutes-investigation-2024|60 Minutes Investigation — Havana Syndrome & The Russian Nexus]]

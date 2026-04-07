@@ -57,16 +57,16 @@ Faust's credibility comes from his clinical credentials and his track record of 
 
 ## Connected Pages
 
-- [[anomalous-health-incidents]]
-- [[david-relman]]
+- [[anomalous-health-incidents|Anomalous Health Incidents — Official Terminology]]
+- [[david-relman|David Relman — Stanford Professor, NASEM Committee Lead]]
 - [[odni-assessment-2023]]
-- [[mass-psychogenic-illness]]
-- [[christo-grozev]]
-- [[gru-unit-29155]]
-- [[60-minutes-investigation-2024]]
-- [[nasem-report-2020]]
+- [[mass-psychogenic-illness|Mass Psychogenic Illness]]
+- [[christo-grozev|Christo Grozev — Investigative Journalist]]
+- [[gru-unit-29155|GRU Unit 29155]]
+- [[60-minutes-investigation-2024|60 Minutes Investigation — Havana Syndrome & The Russian Nexus]]
+- [[nasem-report-2020|NASEM Report — An Assessment of Illness in U.S. Government Employees at Overseas Embassies]]
 - [[cover-up-claims]]
-- [[directed-energy-weapons]]
+- [[directed-energy-weapons|Directed Energy Weapons]]
 
 ## Sources
 

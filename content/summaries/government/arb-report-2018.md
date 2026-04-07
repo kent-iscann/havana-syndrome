@@ -21,11 +21,11 @@ The ARB was convened to investigate mysterious health episodes at the U.S. Embas
 
 ### CIA Involvement
 - Confirmed the CIA **closed its Havana station** and withdrew all personnel in September 2017
-- Two CIA "temporary duty" (TDY) officers fell ill at the [[hotel-nacional-havana]] in August 2017
+- Two CIA "temporary duty" (TDY) officers fell ill at the [[hotel-nacional-havana|Hotel Nacional Havana — Site of August 2017 Incident]] in August 2017
 - The ARB criticized the CIA for **"excessive secrecy"** that prevented the State Department from reacting quickly
 
 ### Global Spread
-- Confirmed case at [[guangzhou-consulate]] — an employee suffered injuries matching Havana victims
+- Confirmed case at [[guangzhou-consulate|Guangzhou Consulate — U.S. Consulate, China]] — an employee suffered injuries matching Havana victims
 - Similar incidents reported in **Tashkent** and one other **redacted country**
 - Reports from other countries received by the board (details redacted)
 
@@ -56,17 +56,17 @@ The ARB was convened to investigate mysterious health episodes at the U.S. Embas
 ## Entities Mentioned
 
 - [[rex-tillerson]] — Secretary of State during crisis period
-- [[state-department]] — Primary subject of ARB criticism
-- [[cia]] — Intelligence agency involved in response and withdrawal
-- [[guangzhou-consulate]] — Site of first confirmed case outside Cuba
-- [[hotel-nacional-havana]] — Site of August 2017 CIA TDY incident
+- [[state-department|State Department — U.S. Department of State]] — Primary subject of ARB criticism
+- [[cia|Central Intelligence Agency (CIA)]] — Intelligence agency involved in response and withdrawal
+- [[guangzhou-consulate|Guangzhou Consulate — U.S. Consulate, China]] — Site of first confirmed case outside Cuba
+- [[hotel-nacional-havana|Hotel Nacional Havana — Site of August 2017 Incident]] — Site of August 2017 CIA TDY incident
 
 ## Concepts
 
-- [[anomalous-health-incidents]] — Condition under investigation
-- [[directed-energy-weapons]] — Unknown mechanism suspected at time of report
+- [[anomalous-health-incidents|Anomalous Health Incidents — Official Terminology]] — Condition under investigation
+- [[directed-energy-weapons|Directed Energy Weapons]] — Unknown mechanism suspected at time of report
 
 ## Source
 
 - Original ARB Report: SECRET/NOFORN, June 7 2018
-- Declassified and published by: [[nsarchive-secrets-havana-syndrome-2021]]
+- Declassified and published by: [[nsarchive-secrets-havana-syndrome-2021|National Security Archive — Secrets of the Havana Syndrome]]

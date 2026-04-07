@@ -23,15 +23,15 @@ Lenzi serves as both a victim and an unofficial spokesperson for the community o
 
 ## Entities Connected
 
-- [[state-department]] — Former employer
-- [[odni]] — Subject of criticism
+- [[state-department|State Department — U.S. Department of State]] — Former employer
+- [[odni|ODNI — Office of the Director of National Intelligence]] — Subject of criticism
 - [[hp sci]] — House Permanent Select Committee on Intelligence
 
 ## Concepts
 
-- [[anomalous-health-incidents]] — Personal experience
+- [[anomalous-health-incidents|Anomalous Health Incidents — Official Terminology]] — Personal experience
 - [[whistleblower-retaliation]] — Theme in Lenzi's complaints
 
 ## Sources
 
-- [[cnn-new-intelligence-2025]]
+- [[cnn-new-intelligence-2025|CNN Analysis — New Intelligence on Havana Syndrome]]

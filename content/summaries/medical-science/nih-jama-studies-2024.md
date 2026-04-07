@@ -31,13 +31,13 @@ NIH published two studies in JAMA following a five-year clinical investigation o
 
 ## Entities Mentioned
 
-- [[nih]] — Conducting agency
-- [[university-of-pennsylvania]] — 2018 study authors, findings not replicated
+- [[nih|NIH — National Institutes of Health]] — Conducting agency
+- [[university-of-pennsylvania|University of Pennsylvania — Clinical Study on Havana Syndrome]] — 2018 study authors, findings not replicated
 
 ## Concepts
 
-- [[anomalous-health-incidents]] — Subject of study
-- [[havana-syndrome-symptoms]] — Clinical presentation studied
+- [[anomalous-health-incidents|Anomalous Health Incidents — Official Terminology]] — Subject of study
+- [[havana-syndrome-symptoms|Havana Syndrome — Clinical Symptoms]] — Clinical presentation studied
 
 ## Source
 

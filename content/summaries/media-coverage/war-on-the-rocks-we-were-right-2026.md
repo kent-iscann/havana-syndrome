@@ -109,23 +109,23 @@ A major theme is that the CIA cannot be trusted to lead its own investigation �
 
 ## Connected Pages
 
-- [[anomalous-health-incidents]]
+- [[anomalous-health-incidents|Anomalous Health Incidents — Official Terminology]]
 - [[marc-polymeropoulos]]
-- [[gru-unit-29155]]
+- [[gru-unit-29155|GRU Unit 29155]]
 - [[odni-assessment-2023]]
-- [[havana-act-2021]]
-- [[hpsci-congressional-investigation-2024]]
-- [[directed-energy-weapons]]
-- [[pulsed-rf-microwave]]
+- [[havana-act-2021|HAVANA Act of 2021 — Compensation for Brain Injury Victims]]
+- [[hpsci-congressional-investigation-2024|HPSCI Congressional Investigation — Havana Syndrome]]
+- [[directed-energy-weapons|Directed Energy Weapons]]
+- [[pulsed-rf-microwave|Pulsed RF/Microwave Radiation]]
 - [[tulsi-gabbard]]
 - [[john-ratcliffe]]
 - [[mike-turner]]
 - [[walter-reed-medical-center]]
 - [[paul-friedrichs]]
 - [[cover-up-claims]]
-- [[venezuela-device-recovery-2026]]
-- [[sasha-ingber-havana-syndrome-substack]]
-- [[stokes-inside-havana-syndrome-substack]]
+- [[venezuela-device-recovery-2026|Venezuela / Directed Energy Device Recovery — 2026]]
+- [[sasha-ingber-havana-syndrome-substack|Sasha Ingber — HUMINT Newsletter (Havana Syndrome Coverage)]]
+- [[stokes-inside-havana-syndrome-substack|Antony Stokes — Inside Havana Syndrome (Ambassador at Large)]]
 
 ## Sources
 

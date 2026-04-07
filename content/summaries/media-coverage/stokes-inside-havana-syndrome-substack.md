@@ -66,16 +66,16 @@ Commenters on his posts (which Stokes engages with) reference the Moscow Signal 
 
 ## Connected Pages
 
-- [[anomalous-health-incidents]]
-- [[directed-energy-weapons]]
+- [[anomalous-health-incidents|Anomalous Health Incidents — Official Terminology]]
+- [[directed-energy-weapons|Directed Energy Weapons]]
 - [[us-embassy-havana-2016]]
 - [[canadian-diplomats]]
 - [[moscow-signal]]
-- [[gru-unit-29155]]
+- [[gru-unit-29155|GRU Unit 29155]]
 - [[odni-assessment-2023]]
-- [[pulsed-rf-microwave]]
+- [[pulsed-rf-microwave|Pulsed RF/Microwave Radiation]]
 - [[marc-polymeropoulos]]
-- [[venezuela-device-recovery-2026]]
+- [[venezuela-device-recovery-2026|Venezuela / Directed Energy Device Recovery — 2026]]
 
 ## Sources
 

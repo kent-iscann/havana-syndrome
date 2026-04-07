@@ -32,11 +32,11 @@ A long-withheld scientific report from the **National Academies of Sciences, Eng
 
 ## Connected Pages
 
-- [[nasem-report-2020]] — The scientific study at the center of this reporting
-- [[david-relman]] — Committee lead and source for key quotes
-- [[directed-energy-weapons]] — Technology underlying the findings
-- [[pulsed-rf-microwave]] — Specific energy type identified
-- [[cia]] — Primary agency affected and involved in the investigation
+- [[nasem-report-2020|NASEM Report — An Assessment of Illness in U.S. Government Employees at Overseas Embassies]] — The scientific study at the center of this reporting
+- [[david-relman|David Relman — Stanford Professor, NASEM Committee Lead]] — Committee lead and source for key quotes
+- [[directed-energy-weapons|Directed Energy Weapons]] — Technology underlying the findings
+- [[pulsed-rf-microwave|Pulsed RF/Microwave Radiation]] — Specific energy type identified
+- [[cia|Central Intelligence Agency (CIA)]] — Primary agency affected and involved in the investigation
 
 ## Sources
 

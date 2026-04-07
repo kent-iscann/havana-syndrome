@@ -44,12 +44,12 @@ Havana (Cuba), Guangzhou (China), Vienna (Austria), Washington D.C., Moscow, Ber
 
 ## Connected Concepts
 
-- [[directed-energy-weapons]] — Leading suspected cause
-- [[havana-syndrome-symptoms]] — Clinical presentation
-- [[mass-psychogenic-illness]] — Alternative explanation
+- [[directed-energy-weapons|Directed Energy Weapons]] — Leading suspected cause
+- [[havana-syndrome-symptoms|Havana Syndrome — Clinical Symptoms]] — Clinical presentation
+- [[mass-psychogenic-illness|Mass Psychogenic Illness]] — Alternative explanation
 
 ## Sources
 
-- [[odni-assessment-2023-2025]]
-- [[senate-intel-committee-report-2024]]
+- [[odni-assessment-2023-2025|ODNI Assessment — Intelligence Community Evaluation of AHIs]]
+- [[senate-intel-committee-report-2024|Senate Intelligence Committee — CIA Mishandling of Havana Syndrome Cases]]
 - W

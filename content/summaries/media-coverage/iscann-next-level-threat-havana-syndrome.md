@@ -24,11 +24,11 @@ This series is part of IScann's "Next Level Threat" content portfolio covering g
 
 ## Connected Pages
 
-- [[60-minutes-investigation-2024]] — Similar long-form investigative coverage
-- [[vice-news-havana-syndrome-podcast]] — Major podcast counterpart
-- [[gru-unit-29155-evidence]] — Attribution evidence discussed in episodes
-- [[anomalous-health-incidents]] — Core subject matter
-- [[moscow-signal-to-havana-syndrome]] — Historical context likely covered
+- [[60-minutes-investigation-2024|60 Minutes Investigation — Havana Syndrome & The Russian Nexus]] — Similar long-form investigative coverage
+- [[vice-news-havana-syndrome-podcast|VICE News Havana Syndrome Podcast]] — Major podcast counterpart
+- [[gru-unit-29155-evidence|GRU Unit 29155 — Evidence Assessment]] — Attribution evidence discussed in episodes
+- [[anomalous-health-incidents|Anomalous Health Incidents — Official Terminology]] — Core subject matter
+- [[moscow-signal-to-havana-syndrome|Moscow Signal to Havana Syndrome — Historical Continuity]] — Historical context likely covered
 
 ## Sources
 

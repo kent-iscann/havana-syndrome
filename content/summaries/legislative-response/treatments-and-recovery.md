@@ -78,10 +78,10 @@ To receive the **Purple Heart**, an injury must be officially linked to **"enemy
 
 ## Connected Pages
 
-- [[persistent-postural-perceptual-dizziness]] — Primary chronic condition addressed by rehabilitation
-- [[havana-act-2021]] — Compensation legislation
+- [[persistent-postural-perceptual-dizziness|Persistent Postural-Perceptual Dizziness (PPPD)]] — Primary chronic condition addressed by rehabilitation
+- [[havana-act-2021|HAVANA Act of 2021 — Compensation for Brain Injury Victims]] — Compensation legislation
 - [[marc-polymeropoulos]] — Victim whose Purple Heart was rescinded
-- [[senate-intel-committee-report-2024]] — Report on CIA claims handling
+- [[senate-intel-committee-report-2024|Senate Intelligence Committee — CIA Mishandling of Havana Syndrome Cases]] — Report on CIA claims handling
 
 ## Sources
 

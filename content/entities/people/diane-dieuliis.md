@@ -29,4 +29,4 @@ Established that:
 
 ## Sources
 
-- [[giordano-ndu-paper-2022]]
+- [[giordano-ndu-paper-2022|Giordano & DiEuliis — Anomalous Health Incidents and Global Biosecurity]]

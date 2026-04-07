@@ -33,11 +33,11 @@ The blood-brain barrier (BBB) is a selective semipermeable border that separates
 
 ## Connected Concepts
 
-- [[friedman-canadian-diplomats-2019]] — Primary evidence for BBB injury in AHIs
-- [[organophosphate-neurotoxicity]] — Proposed cause of BBB damage
-- [[nih-jama-studies-2024]] — May have missed BBB pathology due to imaging method choice
+- [[friedman-canadian-diplomats-2019|Friedman et al. — Canadian Diplomats: Brain Imaging Reveals Acquired Neurotoxicity]] — Primary evidence for BBB injury in AHIs
+- [[organophosphate-neurotoxicity|Organophosphate Neurotoxicity]] — Proposed cause of BBB damage
+- [[nih-jama-studies-2024|NIH Clinical Studies — No Detectable Brain Injury in Havana Syndrome Patients]] — May have missed BBB pathology due to imaging method choice
 
 ## Sources
 
-- [[friedman-canadian-diplomats-2019]]
-- [[nih-jama-studies-2024]]
+- [[friedman-canadian-diplomats-2019|Friedman et al. — Canadian Diplomats: Brain Imaging Reveals Acquired Neurotoxicity]]
+- [[nih-jama-studies-2024|NIH Clinical Studies — No Detectable Brain Injury in Havana Syndrome Patients]]

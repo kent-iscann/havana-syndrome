@@ -68,11 +68,11 @@ While Frey's discovery of the basic phenomenon is **universally accepted**, the 
 
 ## Connected Pages
 
-- [[fry-effect]] — The effect named after him
-- [[directed-energy-weapons]] — Primary application context
-- [[pulsed-rf-microwave]] — Technical mechanism
+- [[fry-effect|Fry Effect — Microwave Auditory Phenomenon]] — The effect named after him
+- [[directed-energy-weapons|Directed Energy Weapons]] — Primary application context
+- [[pulsed-rf-microwave|Pulsed RF/Microwave Radiation]] — Technical mechanism
 - [[moskva-signal]] — Historical precedent during Frey's research period
-- [[nasem-report-2020]] — Report that adopted Frey's mechanism as "most plausible"
+- [[nasem-report-2020|NASEM Report — An Assessment of Illness in U.S. Government Employees at Overseas Embassies]] — Report that adopted Frey's mechanism as "most plausible"
 
 ## Sources
 

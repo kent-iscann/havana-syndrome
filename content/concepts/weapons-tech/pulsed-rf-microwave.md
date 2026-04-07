@@ -37,11 +37,11 @@ Acute symptoms consistent with pulsed RF exposure:
 
 ## Connected Concepts
 
-- [[fry-effect]] — Auditory mechanism
-- [[directed-energy-weapons]] — Weapon category
+- [[fry-effect|Fry Effect — Microwave Auditory Phenomenon]] — Auditory mechanism
+- [[directed-energy-weapons|Directed Energy Weapons]] — Weapon category
 - [[moskva-signal]] — Historical precedent (continuous, not pulsed)
 
 ## Sources
 
-- [[nasem-report-2020]]
-- [[giordano-ndm-2024]]
+- [[nasem-report-2020|NASEM Report — An Assessment of Illness in U.S. Government Employees at Overseas Embassies]]
+- [[giordano-ndm-2024|Giordano — Directed Energy Remains Key Suspect Behind Havana Syndrome]]

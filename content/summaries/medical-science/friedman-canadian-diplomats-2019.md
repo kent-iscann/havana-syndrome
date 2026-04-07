@@ -86,16 +86,16 @@ This stands in direct contrast to the NASEM report's chemical exposure assessmen
 
 ## Entities Connected
 
-- [[dalhousie-university]] — Canadian research institution
-- [[cdc]] — Referenced as parallel investigation
+- [[dalhousie-university|Dalhousie University — Canadian Havana Syndrome Study]] — Canadian research institution
+- [[cdc|CDC — Centers for Disease Control and Prevention]] — Referenced as parallel investigation
 - [[national-academies-of-sciences]] — NASEM report with different conclusion
 
 ## Concepts
 
-- [[anomalous-health-incidents]] — Condition under study
-- [[organophosphate-neurotoxicity]] — Proposed mechanism
-- [[blood-brain-barrier-injury]] — Specific pathology detected
-- [[havana-acquired-brain-injury-tool]] — Assessment tool used
+- [[anomalous-health-incidents|Anomalous Health Incidents — Official Terminology]] — Condition under study
+- [[organophosphate-neurotoxicity|Organophosphate Neurotoxicity]] — Proposed mechanism
+- [[blood-brain-barrier-injury|Blood-Brain Barrier Injury]] — Specific pathology detected
+- [[havana-acquired-brain-injury-tool|HAVANA Acquired Brain Injury Tool (HABIT)]] — Assessment tool used
 
 ## Sources
 

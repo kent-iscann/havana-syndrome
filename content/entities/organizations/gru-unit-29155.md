@@ -31,15 +31,15 @@ Mobile phone tracking data placed Unit 29155 members in close physical proximity
 
 ## Entities Connected
 
-- [[fsb]] — Russian intelligence partner organization
-- [[fpri-history-behind-mystery-2024]] — Article documenting mobile tracking evidence
+- [[fsb|FSB — Federal Security Service of Russia]] — Russian intelligence partner organization
+- [[fpri-history-behind-mystery-2024|FPRI — Havana Syndrome: The History Behind the Mystery]] — Article documenting mobile tracking evidence
 
 ## Concepts
 
-- [[directed-energy-weapons]] — Possible weapon type used by unit
-- [[ultrasonic-weapons]] — Alternative weapon system
-- [[anomalous-health-incidents]] — Outcomes attributed to unit operations
+- [[directed-energy-weapons|Directed Energy Weapons]] — Possible weapon type used by unit
+- [[ultrasonic-weapons|Ultrasonic Weapons]] — Alternative weapon system
+- [[anomalous-health-incidents|Anomalous Health Incidents — Official Terminology]] — Outcomes attributed to unit operations
 
 ## Sources
 
-- [[fpri-history-behind-mystery-2024]]
+- [[fpri-history-behind-mystery-2024|FPRI — Havana Syndrome: The History Behind the Mystery]]

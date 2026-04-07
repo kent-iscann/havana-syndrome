@@ -26,15 +26,15 @@ This is one of the most direct piece of evidence linking Russian intelligence to
 
 ## Connected Pages
 
-- [[gru-unit-29155]] — His father's unit
+- [[gru-unit-29155|GRU Unit 29155]] — His father's unit
 - [[tbilisi-georgia]] — Location of Tbilisi incidents
-- [[60-minutes-investigation-2024]] — Investigation including this evidence
+- [[60-minutes-investigation-2024|60 Minutes Investigation — Havana Syndrome & The Russian Nexus]] — Investigation including this evidence
 
 ## Concepts
 
-- [[anomalous-health-incidents]] — Attack type attributed to him
-- [[directed-energy-weapons]] — Suspected weapon type
+- [[anomalous-health-incidents|Anomalous Health Incidents — Official Terminology]] — Attack type attributed to him
+- [[directed-energy-weapons|Directed Energy Weapons]] — Suspected weapon type
 
 ## Sources
 
-- [[60-minutes-investigation-2024]]
+- [[60-minutes-investigation-2024|60 Minutes Investigation — Havana Syndrome & The Russian Nexus]]

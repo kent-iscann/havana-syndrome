@@ -37,14 +37,14 @@ Despite concluding foreign adversary involvement was "very unlikely," the report
 
 ## Entities Mentioned
 
-- [[cia]] — Central subject of criticism
-- [[odni]] — Referenced for IC assessment conclusions
+- [[cia|Central Intelligence Agency (CIA)]] — Central subject of criticism
+- [[odni|ODNI — Office of the Director of National Intelligence]] — Referenced for IC assessment conclusions
 - [[senate-intelligence-committee]] — Author of report
 
 ## Concepts
 
-- [[anomalous-health-incidents]] — Subject of report
-- [[directed-energy-weapons]] — Report warns adversaries likely developing such capabilities
+- [[anomalous-health-incidents|Anomalous Health Incidents — Official Terminology]] — Subject of report
+- [[directed-energy-weapons|Directed Energy Weapons]] — Report warns adversaries likely developing such capabilities
 
 ## Source
 

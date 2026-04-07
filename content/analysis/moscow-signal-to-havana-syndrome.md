@@ -59,11 +59,11 @@ The U.S. government's historical pattern of **concealing and tolerating** Soviet
 ## Connected Pages
 
 - [[moskva-signal]] — Historical precedent
-- [[directed-energy-weapons]] — Technology continuity
-- [[gru-unit-29155]] — Modern Russian operators
-- [[fpri-history-behind-mystery-2024]] — Regenstein's historical analysis
+- [[directed-energy-weapons|Directed Energy Weapons]] — Technology continuity
+- [[gru-unit-29155|GRU Unit 29155]] — Modern Russian operators
+- [[fpri-history-behind-mystery-2024|FPRI — Havana Syndrome: The History Behind the Mystery]] — Regenstein's historical analysis
 
 ## Sources
 
-- [[fpri-history-behind-mystery-2024]]
-- [[directed-energy-evidence-debate]]
+- [[fpri-history-behind-mystery-2024|FPRI — Havana Syndrome: The History Behind the Mystery]]
+- [[directed-energy-evidence-debate|Directed Energy Evidence Debate]]

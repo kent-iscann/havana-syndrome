@@ -45,7 +45,7 @@ Edgreen suggests the U.S. government set an impossibly high evidentiary bar to a
 - Returned to Russia, reportedly **killed in Ukraine in 2023**
 
 ### Albert Avarionov
-- Son of the commander of [[gru-unit-29155]]
+- Son of the commander of [[gru-unit-29155|GRU Unit 29155]]
 - **Tbilisi incident (2021):** A U.S. official's wife in Georgia identified Avarionov from a photo as the man she saw outside her home immediately after being hit by a "piercing sound"
 
 ### Attack Locations
@@ -98,13 +98,13 @@ Victims believe they are "test subjects" for next-generation energy weaponry. Th
 
 ## Entities Mentioned
 
-- [[christo-grozev]] — Investigative journalist, The Insider
-- [[greg-edgreen]] — DIA investigator, Army Lt. Col. (ret.)
-- [[mark-zaid]] — Attorney for AHI victims
-- [[vitalii-kovalev]] — Russian engineer, "The Chef"
-- [[gru-unit-29155]] — Unit documented with acoustic weapons bonus
+- [[christo-grozev|Christo Grozev — Investigative Journalist]] — Investigative journalist, The Insider
+- [[greg-edgreen|Greg Edgreen — DIA Investigator]] — DIA investigator, Army Lt. Col. (ret.)
+- [[mark-zaid|Mark Zaid — Attorney for AHI Victims]] — Attorney for AHI victims
+- [[vitalii-kovalev|Vitalii Kovalev — ]] — Russian engineer, "The Chef"
+- [[gru-unit-29155|GRU Unit 29155]] — Unit documented with acoustic weapons bonus
 - [[federal-bureau-of-investigation]] — Investigation of Kovalev, Agent "Carrie"
-- [[olivia-troye]] — AHI victim, former VP advisor
+- [[olivia-troye|Olivia Troye — AHI Victim, Former VP Advisor]] — AHI victim, former VP advisor
 - [[albert-a varionov]] — Son of Unit 29155 commander, identified by victim
 
 ## Locations
@@ -115,9 +115,9 @@ Victims believe they are "test subjects" for next-generation energy weaponry. Th
 
 ## Concepts
 
-- [[directed-energy-weapons]] — Primary suspect mechanism
-- [[pulsed-rf-microwave]] — Specific type identified by Relman
-- [[anomalous-health-incidents]] — Official term
+- [[directed-energy-weapons|Directed Energy Weapons]] — Primary suspect mechanism
+- [[pulsed-rf-microwave|Pulsed RF/Microwave Radiation]] — Specific type identified by Relman
+- [[anomalous-health-incidents|Anomalous Health Incidents — Official Terminology]] — Official term
 - [[cover-up-claims]] — Allegations against U.S. government
 
 ## Sources

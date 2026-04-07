@@ -50,11 +50,11 @@ The **directional and locational specificity** — symptoms are specific to a pa
 
 ## Connected Concepts
 
-- [[anomalous-health-incidents]] — Official term
-- [[directed-energy-weapons]] — Possible cause consistent with directional symptoms
-- [[fry-effect]] — Explains auditory component
+- [[anomalous-health-incidents|Anomalous Health Incidents — Official Terminology]] — Official term
+- [[directed-energy-weapons|Directed Energy Weapons]] — Possible cause consistent with directional symptoms
+- [[fry-effect|Fry Effect — Microwave Auditory Phenomenon]] — Explains auditory component
 
 ## Sources
 
-- [[giordano-ndm-2024]] — Clinical presentation details
-- [[nih-jama-studies-2024]] — NIH findings
+- [[giordano-ndm-2024|Giordano — Directed Energy Remains Key Suspect Behind Havana Syndrome]] — Clinical presentation details
+- [[nih-jama-studies-2024|NIH Clinical Studies — No Detectable Brain Injury in Havana Syndrome Patients]] — NIH findings

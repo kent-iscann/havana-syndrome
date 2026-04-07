@@ -30,14 +30,14 @@ Tracking data placed FSB/GRU officers in close physical proximity to CIA targets
 
 ## Entities Connected
 
-- [[gru-unit-29155]] — GRU unit implicated in AHI incidents
+- [[gru-unit-29155|GRU Unit 29155]] — GRU unit implicated in AHI incidents
 - [[moskva-signal]] — Historical precedent
 
 ## Concepts
 
-- [[directed-energy-weapons]] — Weapons area FSB investigated
+- [[directed-energy-weapons|Directed Energy Weapons]] — Weapons area FSB investigated
 - [[psychotronic-weapons]] — Russian terminology for neurological weapons
 
 ## Sources
 
-- [[fpri-history-behind-mystery-2024]]
+- [[fpri-history-behind-mystery-2024|FPRI — Havana Syndrome: The History Behind the Mystery]]

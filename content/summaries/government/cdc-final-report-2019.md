@@ -82,15 +82,15 @@ Personnel reported a cluster including:
 
 ## Entities Connected
 
-- [[cdc]] — Conducting agency
-- [[state-department]] — Commissioned the investigation, delayed data access
+- [[cdc|CDC — Centers for Disease Control and Prevention]] — Conducting agency
+- [[state-department|State Department — U.S. Department of State]] — Commissioned the investigation, delayed data access
 - [[national-academies-of-sciences]] — NASEM concurrent study
-- [[havana-acquired-brain-injury-tool]] — Clinical screening tool evaluated
+- [[havana-acquired-brain-injury-tool|HAVANA Acquired Brain Injury Tool (HABIT)]] — Clinical screening tool evaluated
 
 ## Concepts
 
-- [[anomalous-health-incidents]] — Subject of CDC investigation
-- [[epidemiological-investigation]] — Method used by CDC
+- [[anomalous-health-incidents|Anomalous Health Incidents — Official Terminology]] — Subject of CDC investigation
+- [[epidemiological-investigation|Epidemiological Investigation]] — Method used by CDC
 
 ## Sources
 

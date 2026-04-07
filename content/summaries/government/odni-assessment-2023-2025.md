@@ -46,15 +46,15 @@ The ODNI's assessment represents the most comprehensive official intelligence co
 
 ## Entities Mentioned
 
-- [[odni]] — Lead assessment body
-- [[cia]] — Primary agency, initially concluded "unlikely"
+- [[odni|ODNI — Office of the Director of National Intelligence]] — Lead assessment body
+- [[cia|Central Intelligence Agency (CIA)]] — Primary agency, initially concluded "unlikely"
 - [[nsa]] — Reported to be one of two agencies that shifted
-- [[fsb]] — Russian intelligence, primary suspect
+- [[fsb|FSB — Federal Security Service of Russia]] — Russian intelligence, primary suspect
 
 ## Concepts
 
-- [[directed-energy-weapons]] — Research programs making progress
-- [[anomalous-health-incidents]] — Official terminology
+- [[directed-energy-weapons|Directed Energy Weapons]] — Research programs making progress
+- [[anomalous-health-incidents|Anomalous Health Incidents — Official Terminology]] — Official terminology
 
 ## Source
 

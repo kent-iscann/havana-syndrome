@@ -34,9 +34,9 @@ The CDC followed its standard cluster investigation framework:
 
 ## Connected Concepts
 
-- [[cdc-final-report-2019]] — Primary CDC investigation document
-- [[anomalous-health-incidents]] — Subject of investigation
+- [[cdc-final-report-2019|CDC Final Report — Cuba Unexplained Events Investigation]] — Primary CDC investigation document
+- [[anomalous-health-incidents|Anomalous Health Incidents — Official Terminology]] — Subject of investigation
 
 ## Sources
 
-- [[cdc-final-report-2019]]
+- [[cdc-final-report-2019|CDC Final Report — Cuba Unexplained Events Investigation]]

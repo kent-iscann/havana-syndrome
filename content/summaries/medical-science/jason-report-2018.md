@@ -73,14 +73,14 @@ The JASON report represents the **strongest scientific counterweight** to the di
 
 - [[jason-advisory-group]] — The scientific group itself
 - [[national-academies-of-sciences]] — NASEM whose report contradicts JASON
-- [[indies-short-tailed-cricket]] — Leading explanation for Havana sounds
+- [[indies-short-tailed-cricket|Indies Short-Tailed Cricket — Insect Sound Hypothesis]] — Leading explanation for Havana sounds
 
 ## Concepts
 
 - [[indies-short-talled-cricket]] — Primary proposed cause of audio recordings
-- [[directed-energy-weapons]] — Hypothesis JASON rejected
-- [[fry-effect]] — Acknowledged as real but deemed inconsistent with evidence
-- [[mass-psychogenic-illness]] — Proposed as plausible alternative
+- [[directed-energy-weapons|Directed Energy Weapons]] — Hypothesis JASON rejected
+- [[fry-effect|Fry Effect — Microwave Auditory Phenomenon]] — Acknowledged as real but deemed inconsistent with evidence
+- [[mass-psychogenic-illness|Mass Psychogenic Illness]] — Proposed as plausible alternative
 
 ## Sources
 

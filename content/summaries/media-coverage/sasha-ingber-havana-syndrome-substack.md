@@ -112,21 +112,21 @@ She is not a skeptic herself but accurately reports on the debate, including the
 
 ## Connected Pages
 
-- [[anomalous-health-incidents]]
-- [[gru-unit-29155]]
-- [[greg-edgreen]]
-- [[mark-zaid]]
-- [[david-relman]]
-- [[directed-energy-weapons]]
-- [[pulsed-rf-microwave]]
-- [[havana-act-2021]]
+- [[anomalous-health-incidents|Anomalous Health Incidents — Official Terminology]]
+- [[gru-unit-29155|GRU Unit 29155]]
+- [[greg-edgreen|Greg Edgreen — DIA Investigator]]
+- [[mark-zaid|Mark Zaid — Attorney for AHI Victims]]
+- [[david-relman|David Relman — Stanford Professor, NASEM Committee Lead]]
+- [[directed-energy-weapons|Directed Energy Weapons]]
+- [[pulsed-rf-microwave|Pulsed RF/Microwave Radiation]]
+- [[havana-act-2021|HAVANA Act of 2021 — Compensation for Brain Injury Victims]]
 - [[odni-assessment-2023]]
 - [[chris-schlagheck]]
 - [[philip-wasielewski]]
 - [[marc-polymeropoulos]]
 - [[tulsi-gabbard]]
 - [[john-ratcliffe]]
-- [[venezuela-device-recovery-2026]]
+- [[venezuela-device-recovery-2026|Venezuela / Directed Energy Device Recovery — 2026]]
 
 ## Sources
 

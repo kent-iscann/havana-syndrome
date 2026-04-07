@@ -84,7 +84,7 @@ A panel discussion on global intelligence and espionage recorded live in Washing
 
 ## Distinguishing Features
 
-Unlike the [[vice-news-havana-syndrome-podcast]], which focuses heavily on the geopolitical and intelligence-community angle, *The Sound* takes a broader approach -- dedicating chapters to the psychogenic theory, the physics of microwave energy, a practical attempt to build a device, and the human cost. Its original score by the Attacca Quartet gives it a distinctive audio aesthetic, and the accompanying YouTube docuseries provides visual supplements to the audio investigation.
+Unlike the [[vice-news-havana-syndrome-podcast|VICE News Havana Syndrome Podcast]], which focuses heavily on the geopolitical and intelligence-community angle, *The Sound* takes a broader approach -- dedicating chapters to the psychogenic theory, the physics of microwave energy, a practical attempt to build a device, and the human cost. Its original score by the Attacca Quartet gives it a distinctive audio aesthetic, and the accompanying YouTube docuseries provides visual supplements to the audio investigation.
 
 ## Connected Pages
 
@@ -95,8 +95,8 @@ Unlike the [[vice-news-havana-syndrome-podcast]], which focuses heavily on the g
 - [[goat-rodeo]]
 - [[bradley-hope]]
 - [[tom-wright]]
-- [[cia]]
-- [[gru-unit-29155]]
+- [[cia|Central Intelligence Agency (CIA)]]
+- [[gru-unit-29155|GRU Unit 29155]]
 - [[the-frey-effect]]
 - [[moscow-signal]]
 - [[marc-polymeropoulos]]

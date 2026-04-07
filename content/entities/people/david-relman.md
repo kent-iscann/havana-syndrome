@@ -28,10 +28,10 @@ Relman's NASEM committee findings have been cited repeatedly by the directed-ene
 
 ## Concepts
 
-- [[pulsed-rf-microwave]] — Identified as most plausible mechanism
-- [[directed-energy-weapons]] — Primary hypothesis
+- [[pulsed-rf-microwave|Pulsed RF/Microwave Radiation]] — Identified as most plausible mechanism
+- [[directed-energy-weapons|Directed Energy Weapons]] — Primary hypothesis
 
 ## Sources
 
-- [[fpri-history-behind-mystery-2024]] — Cites Relman's NASEM finding
-- [[giordano-ndm-2024]] — Corroboration of Giordano's work
+- [[fpri-history-behind-mystery-2024|FPRI — Havana Syndrome: The History Behind the Mystery]] — Cites Relman's NASEM finding
+- [[giordano-ndm-2024|Giordano — Directed Energy Remains Key Suspect Behind Havana Syndrome]] — Corroboration of Giordano's work

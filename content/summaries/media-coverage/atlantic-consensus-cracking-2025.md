@@ -36,10 +36,10 @@ The Atlantic's coverage represents mainstream elite media picking up on the inte
 
 ## Connected Pages
 
-- [[odni-assessment-2023-2025]] — The official IC assessment discussed in this piece
-- [[directed-energy-weapons]] — Technology under reassessment
-- [[cnn-new-intelligence-2025]] — CNN also covered this intelligence split
-- [[gru-unit-29155-evidence]] — Leading attribution theory
+- [[odni-assessment-2023-2025|ODNI Assessment — Intelligence Community Evaluation of AHIs]] — The official IC assessment discussed in this piece
+- [[directed-energy-weapons|Directed Energy Weapons]] — Technology under reassessment
+- [[cnn-new-intelligence-2025|CNN Analysis — New Intelligence on Havana Syndrome]] — CNN also covered this intelligence split
+- [[gru-unit-29155-evidence|GRU Unit 29155 — Evidence Assessment]] — Leading attribution theory
 
 ## Sources
 

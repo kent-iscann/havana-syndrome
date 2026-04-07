@@ -135,8 +135,8 @@ This "multiple causes" hypothesis would explain why no single investigation has 
 
 ## Connected Pages
 
-- [[directed-energy-evidence-debate]] — Focused debate on directed energy
-- [[gru-unit-29155-evidence]] — Evidence for Russian involvement
-- [[friedman-canadian-diplomats-2019]] — Organophosphate study
-- [[nasem-report-2020]] — Directed energy endorsement
-- [[60-minutes-investigation-2024]] — Latest evidence
+- [[directed-energy-evidence-debate|Directed Energy Evidence Debate]] — Focused debate on directed energy
+- [[gru-unit-29155-evidence|GRU Unit 29155 — Evidence Assessment]] — Evidence for Russian involvement
+- [[friedman-canadian-diplomats-2019|Friedman et al. — Canadian Diplomats: Brain Imaging Reveals Acquired Neurotoxicity]] — Organophosphate study
+- [[nasem-report-2020|NASEM Report — An Assessment of Illness in U.S. Government Employees at Overseas Embassies]] — Directed energy endorsement
+- [[60-minutes-investigation-2024|60 Minutes Investigation — Havana Syndrome & The Russian Nexus]] — Latest evidence

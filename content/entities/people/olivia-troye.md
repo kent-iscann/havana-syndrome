@@ -29,16 +29,16 @@ Troye's case is notable because:
 
 ## Connected Pages
 
-- [[mark-lenzi]] — Fellow victim and critic
-- [[mark-zaid]] — Attorney representing victims
-- [[60-minutes-investigation-2024]] — Investigation including her testimony
+- [[mark-lenzi|Mark Lenzi — State Department Officer, AHI Victim, Whistleblower]] — Fellow victim and critic
+- [[mark-zaid|Mark Zaid — Attorney for AHI Victims]] — Attorney representing victims
+- [[60-minutes-investigation-2024|60 Minutes Investigation — Havana Syndrome & The Russian Nexus]] — Investigation including her testimony
 
 ## Concepts
 
-- [[havana-syndrome-symptoms]] — Clinical presentation matching AHI profile
-- [[anomalous-health-incidents]] — Official classification
+- [[havana-syndrome-symptoms|Havana Syndrome — Clinical Symptoms]] — Clinical presentation matching AHI profile
+- [[anomalous-health-incidents|Anomalous Health Incidents — Official Terminology]] — Official classification
 
 ## Sources
 
-- [[60-minutes-investigation-2024]]
-- [[fpri-history-behind-mystery-2024]]
+- [[60-minutes-investigation-2024|60 Minutes Investigation — Havana Syndrome & The Russian Nexus]]
+- [[fpri-history-behind-mystery-2024|FPRI — Havana Syndrome: The History Behind the Mystery]]

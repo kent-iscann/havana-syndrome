@@ -150,17 +150,17 @@ This pattern is consistent across Cuba, Vienna, Moscow, Georgia, and potentially
 
 ## Connected Pages
 
-- [[directed-energy-evidence-debate]] — Evidence for weapons
-- [[gru-unit-29155-evidence]] — GRU tracking correlation
-- [[competing-causation-hypotheses]] — All hypothesis comparison
+- [[directed-energy-evidence-debate|Directed Energy Evidence Debate]] — Evidence for weapons
+- [[gru-unit-29155-evidence|GRU Unit 29155 — Evidence Assessment]] — GRU tracking correlation
+- [[competing-causation-hypotheses|Competing Causation Hypotheses]] — All hypothesis comparison
 - [[frankfurt-germany]] — Earliest reported location
-- [[vienna-embassy]] — Second-highest location after Havana
-- [[hotel-nacional-havana]] — Cuba incident location
-- [[guangzhou-consulate]] — China incident location
+- [[vienna-embassy|Vienna Embassy — U.S. Embassy Austria]] — Second-highest location after Havana
+- [[hotel-nacional-havana|Hotel Nacional Havana — Site of August 2017 Incident]] — Cuba incident location
+- [[guangzhou-consulate|Guangzhou Consulate — U.S. Consulate, China]] — China incident location
 - [[tbilisi-georgia]] — Georgia incident location
 - [[vilnius-nato-summit]] — 2023 incident
-- [[friedman-canadian-diplomats-2019]] — Canadian Cuba cases
-- [[global-affairs-canada-2024]] — Canadian government report
+- [[friedman-canadian-diplomats-2019|Friedman et al. — Canadian Diplomats: Brain Imaging Reveals Acquired Neurotoxicity]] — Canadian Cuba cases
+- [[global-affairs-canada-2024|Global Affairs Canada — Unexplained Health Incidents Investigation]] — Canadian government report
 
 ## Sources
 

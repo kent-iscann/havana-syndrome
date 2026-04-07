@@ -40,11 +40,11 @@ Organophosphates (OPs) are neurotoxic compounds that inhibit acetylcholinesteras
 
 ## Connected Concepts
 
-- [[friedman-canadian-diplomats-2019]] — Primary evidence for OP hypothesis
-- [[havana-syndrome-symptoms]] — Overlapping symptom profile
-- [[mass-psychogenic-illness]] — Alternative to both OP and directed energy
+- [[friedman-canadian-diplomats-2019|Friedman et al. — Canadian Diplomats: Brain Imaging Reveals Acquired Neurotoxicity]] — Primary evidence for OP hypothesis
+- [[havana-syndrome-symptoms|Havana Syndrome — Clinical Symptoms]] — Overlapping symptom profile
+- [[mass-psychogenic-illness|Mass Psychogenic Illness]] — Alternative to both OP and directed energy
 
 ## Sources
 
-- [[friedman-canadian-diplomats-2019]]
-- [[nasem-report-2020]]
+- [[friedman-canadian-diplomats-2019|Friedman et al. — Canadian Diplomats: Brain Imaging Reveals Acquired Neurotoxicity]]
+- [[nasem-report-2020|NASEM Report — An Assessment of Illness in U.S. Government Employees at Overseas Embassies]]

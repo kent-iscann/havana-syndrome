@@ -23,13 +23,13 @@ Researchers at the University of Miami (Hoffer et al., 2019) provided clinical d
 
 ## Entities Connected
 
-- [[nasem-report-2020]] — Referenced Miami data
+- [[nasem-report-2020|NASEM Report — An Assessment of Illness in U.S. Government Employees at Overseas Embassies]] — Referenced Miami data
 
 ## Concepts
 
-- [[anomalous-health-incidents]] — Subject of study
-- [[havana-syndrome-symptoms]] — Clinical presentation data
+- [[anomalous-health-incidents|Anomalous Health Incidents — Official Terminology]] — Subject of study
+- [[havana-syndrome-symptoms|Havana Syndrome — Clinical Symptoms]] — Clinical presentation data
 
 ## Sources
 
-- [[nasem-report-2020]]
+- [[nasem-report-2020|NASEM Report — An Assessment of Illness in U.S. Government Employees at Overseas Embassies]]

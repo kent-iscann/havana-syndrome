@@ -34,13 +34,13 @@ The Fry Effect is the leading candidate to explain the **unusual auditory experi
 
 ## Connected Concepts
 
-- [[directed-energy-weapons]] — Primary weapon mechanism
-- [[pulsed-rf-microwave]] — Energy type producing the effect
+- [[directed-energy-weapons|Directed Energy Weapons]] — Primary weapon mechanism
+- [[pulsed-rf-microwave|Pulsed RF/Microwave Radiation]] — Energy type producing the effect
 - [[indies-short-talled-cricket]] — Alternative explanation for the sounds
-- [[allan-frey]] — Discoverer of the effect
+- [[allan-frey|Allan H. Frey — Discoverer of Microwave Auditory Effect]] — Discoverer of the effect
 
 ## Sources
 
-- [[allan-frey]] — Original discoverer
-- [[giordano-ndm-2024]] — Cites Fry Effect as mechanism consistent with patient presentation
-- [[fpri-history-behind-mystery-2024]]
+- [[allan-frey|Allan H. Frey — Discoverer of Microwave Auditory Effect]] — Original discoverer
+- [[giordano-ndm-2024|Giordano — Directed Energy Remains Key Suspect Behind Havana Syndrome]] — Cites Fry Effect as mechanism consistent with patient presentation
+- [[fpri-history-behind-mystery-2024|FPRI — Havana Syndrome: The History Behind the Mystery]]

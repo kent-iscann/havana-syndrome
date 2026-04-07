@@ -25,15 +25,15 @@ Five-year study of approximately 80 current and former U.S. officials:
 
 ## Entities Connected
 
-- [[university-of-pennsylvania]] — 2018 study authors, findings not replicated
+- [[university-of-pennsylvania|University of Pennsylvania — Clinical Study on Havana Syndrome]] — 2018 study authors, findings not replicated
 - [[nih-studies-2024]] — Reference to JAMA publication
 
 ## Concepts
 
-- [[anomalous-health-incidents]] — Subject of NIH studies
-- [[havana-syndrome-symptoms]] — Clinical presentation examined
+- [[anomalous-health-incidents|Anomalous Health Incidents — Official Terminology]] — Subject of NIH studies
+- [[havana-syndrome-symptoms|Havana Syndrome — Clinical Symptoms]] — Clinical presentation examined
 
 ## Sources
 
-- [[nih-jama-studies-2024]]
-- [[senate-intel-committee-report-2024]]
+- [[nih-jama-studies-2024|NIH Clinical Studies — No Detectable Brain Injury in Havana Syndrome Patients]]
+- [[senate-intel-committee-report-2024|Senate Intelligence Committee — CIA Mishandling of Havana Syndrome Cases]]

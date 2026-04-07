@@ -36,11 +36,11 @@ NASEM recommended:
 
 ## Connected Concepts
 
-- [[anomalous-health-incidents]] — Subject of screening
-- [[cdc-final-report-2019]] — CDC evaluated the tool
-- [[nasem-report-2020]] — NASEM recommended updates
+- [[anomalous-health-incidents|Anomalous Health Incidents — Official Terminology]] — Subject of screening
+- [[cdc-final-report-2019|CDC Final Report — Cuba Unexplained Events Investigation]] — CDC evaluated the tool
+- [[nasem-report-2020|NASEM Report — An Assessment of Illness in U.S. Government Employees at Overseas Embassies]] — NASEM recommended updates
 
 ## Sources
 
-- [[cdc-final-report-2019]]
-- [[nasem-report-2020]]
+- [[cdc-final-report-2019|CDC Final Report — Cuba Unexplained Events Investigation]]
+- [[nasem-report-2020|NASEM Report — An Assessment of Illness in U.S. Government Employees at Overseas Embassies]]

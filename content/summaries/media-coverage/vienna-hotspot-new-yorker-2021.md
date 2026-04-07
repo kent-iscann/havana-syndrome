@@ -33,11 +33,11 @@ U.S. officials in both the Trump and Biden administrations suspect the **GRU (Ru
 
 ## Connected Pages
 
-- [[vienna-embassy]] — U.S. Embassy Vienna, site of the cluster described
-- [[cia]] — CIA Director Burns' private characterization of incidents
-- [[gru-unit-29155-evidence]] — Evidence linking GRU to similar operations
-- [[pulsed-rf-microwave]] — Technology underlying the theory
-- [[new-yorker-silent-attack-2021]] — Earlier New Yorker investigation by same outlet
+- [[vienna-embassy|Vienna Embassy — U.S. Embassy Austria]] — U.S. Embassy Vienna, site of the cluster described
+- [[cia|Central Intelligence Agency (CIA)]] — CIA Director Burns' private characterization of incidents
+- [[gru-unit-29155-evidence|GRU Unit 29155 — Evidence Assessment]] — Evidence linking GRU to similar operations
+- [[pulsed-rf-microwave|Pulsed RF/Microwave Radiation]] — Technology underlying the theory
+- [[new-yorker-silent-attack-2021|Are U.S. Officials Under Silent Attack? — The New Yorker]] — Earlier New Yorker investigation by same outlet
 
 ## Sources
 

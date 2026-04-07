@@ -32,15 +32,15 @@ Kovalev represents a **direct link** between Russian military intelligence and i
 
 ## Connected Pages
 
-- [[60-minutes-investigation-2024]] — Full transcript with details
-- [[gru-unit-29155]] — Unit he may have been associated with
+- [[60-minutes-investigation-2024|60 Minutes Investigation — Havana Syndrome & The Russian Nexus]] — Full transcript with details
+- [[gru-unit-29155|GRU Unit 29155]] — Unit he may have been associated with
 - [[federal-bureau-of-investigation]] — Agency conducting 80-hour interrogation
 
 ## Concepts
 
-- [[directed-energy-weapons]] — Kovalev's field of expertise
-- [[anomalous-health-incidents]] — Events under investigation
+- [[directed-energy-weapons|Directed Energy Weapons]] — Kovalev's field of expertise
+- [[anomalous-health-incidents|Anomalous Health Incidents — Official Terminology]] — Events under investigation
 
 ## Sources
 
-- [[60-minutes-investigation-2024]]
+- [[60-minutes-investigation-2024|60 Minutes Investigation — Havana Syndrome & The Russian Nexus]]

@@ -30,17 +30,17 @@ The Accountability Review Board issued a damning assessment:
 
 ## Entities Connected
 
-- [[cia]] — Partner agency in investigation
+- [[cia|Central Intelligence Agency (CIA)]] — Partner agency in investigation
 - [[rex-tillerson]] — Secretary of State during crisis
-- [[mark-lenzi]] — AHI victim and whistleblower
-- [[guangzhou-consulate]] — Site under State Dept jurisdiction
+- [[mark-lenzi|Mark Lenzi — State Department Officer, AHI Victim, Whistleblower]] — AHI victim and whistleblower
+- [[guangzhou-consulate|Guangzhou Consulate — U.S. Consulate, China]] — Site under State Dept jurisdiction
 
 ## Concepts
 
-- [[anomalous-health-incidents]] — Subject of State Dept responsibility
-- [[directed-energy-weapons]] — Unknown mechanism at time of crisis
+- [[anomalous-health-incidents|Anomalous Health Incidents — Official Terminology]] — Subject of State Dept responsibility
+- [[directed-energy-weapons|Directed Energy Weapons]] — Unknown mechanism at time of crisis
 
 ## Sources
 
-- [[arb-report-2018]]
-- [[nsarchive-secrets-havana-syndrome-2021]]
+- [[arb-report-2018|Arb Report 2018 — Accountability Review Board]]
+- [[nsarchive-secrets-havana-syndrome-2021|National Security Archive — Secrets of the Havana Syndrome]]

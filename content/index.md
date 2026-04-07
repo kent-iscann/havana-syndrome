@@ -138,13 +138,13 @@ The **HAVANA Act of 2021** (PL 117-46) provides compensation for brain injury vi
 ## Key Documents in This Wiki
 
 ### Reports Every Analyst Should Read
-1. **[[nasem-report-2020]]** — The scientific foundation: declares directed RF "most plausible"
-2. **[[odni-assessment-2023-2025]]** — The official intelligence community position
-3. **[[gru-unit-29155-evidence]]** — The evidence for Russian attribution
-4. **[[competing-causation-hypotheses]]** — Systematic comparison of all theories
-5. **[[60-minutes-investigation-2024]]** — The most comprehensive journalistic investigation
-6. **[[venezuela-device-recovery-2026]]** — The first physical device evidence
-7. **[[moscow-signal-to-havana-syndrome]]** — Historical context from the Cold War
+1. **[[nasem-report-2020|NASEM Report — An Assessment of Illness in U.S. Government Employees at Overseas Embassies]]** — The scientific foundation: declares directed RF "most plausible"
+2. **[[odni-assessment-2023-2025|ODNI Assessment — Intelligence Community Evaluation of AHIs]]** — The official intelligence community position
+3. **[[gru-unit-29155-evidence|GRU Unit 29155 — Evidence Assessment]]** — The evidence for Russian attribution
+4. **[[competing-causation-hypotheses|Competing Causation Hypotheses]]** — Systematic comparison of all theories
+5. **[[60-minutes-investigation-2024|60 Minutes Investigation — Havana Syndrome & The Russian Nexus]]** — The most comprehensive journalistic investigation
+6. **[[venezuela-device-recovery-2026|Venezuela / Directed Energy Device Recovery — 2026]]** — The first physical device evidence
+7. **[[moscow-signal-to-havana-syndrome|Moscow Signal to Havana Syndrome — Historical Continuity]]** — Historical context from the Cold War
 
 ### Key Entities to Know
 - **GRU Unit 29155** — Russian military intelligence unit linked to covert ops

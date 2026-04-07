@@ -24,10 +24,10 @@ The Indies short-tailed cricket (*Anurogryllus celerinictus*) is a species whose
 
 ## Connected Concepts
 
-- [[mass-psychogenic-illness]] — Alternative to directed energy
-- [[ultrasonic-weapons]] — Alternative acoustic explanation
-- [[anomalous-health-incidents]] — Subject of debate
+- [[mass-psychogenic-illness|Mass Psychogenic Illness]] — Alternative to directed energy
+- [[ultrasonic-weapons|Ultrasonic Weapons]] — Alternative acoustic explanation
+- [[anomalous-health-incidents|Anomalous Health Incidents — Official Terminology]] — Subject of debate
 
 ## Sources
 
-- [[nih-jama-studies-2024]] — Referenced in broader alternative explanations context
+- [[nih-jama-studies-2024|NIH Clinical Studies — No Detectable Brain Injury in Havana Syndrome Patients]] — Referenced in broader alternative explanations context

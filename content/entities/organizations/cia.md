@@ -14,7 +14,7 @@ The CIA has been central to both the investigation of Anomalous Health Incidents
 
 ### Havana Station Withdrawal (2017)
 - The CIA **closed its Havana station** and withdrew all personnel in September 2017
-- Two CIA "temporary duty" (TDY) intelligence officers fell ill at the [[hotel-nacional-havana]] on August 22, 2017
+- Two CIA "temporary duty" (TDY) intelligence officers fell ill at the [[hotel-nacional-havana|Hotel Nacional Havana — Site of August 2017 Incident]] on August 22, 2017
 - The ARB confirmed these injuries matched the pattern of earlier State Department cases
 - The ARB criticized the CIA for **"excessive secrecy"** that prevented State Department from acting on the information
 
@@ -38,18 +38,18 @@ The CIA has been central to both the investigation of Anomalous Health Incidents
 
 ## Entities Connected
 
-- [[state-department]] — Shared responsibility for embassies
+- [[state-department|State Department — U.S. Department of State]] — Shared responsibility for embassies
 - [[rex-tillerson]] — Secretary of State during crisis, criticized alongside CIA
-- [[senate-intel-committee-report-2024]] — Report criticizing CIA handling
-- [[mark-lenzi]] — State Department critic of CIA assessments
+- [[senate-intel-committee-report-2024|Senate Intelligence Committee — CIA Mishandling of Havana Syndrome Cases]] — Report criticizing CIA handling
+- [[mark-lenzi|Mark Lenzi — State Department Officer, AHI Victim, Whistleblower]] — State Department critic of CIA assessments
 
 ## Concepts
 
-- [[anomalous-health-incidents]] — Primary subject of CIA involvement
-- [[directed-energy-weapons]] — Potential cause of AHIs
+- [[anomalous-health-incidents|Anomalous Health Incidents — Official Terminology]] — Primary subject of CIA involvement
+- [[directed-energy-weapons|Directed Energy Weapons]] — Potential cause of AHIs
 
 ## Sources
 
-- [[arb-report-2018]]
-- [[senate-intel-committee-report-2024]]
-- [[fpri-history-behind-mystery-2024]]
+- [[arb-report-2018|Arb Report 2018 — Accountability Review Board]]
+- [[senate-intel-committee-report-2024|Senate Intelligence Committee — CIA Mishandling of Havana Syndrome Cases]]
+- [[fpri-history-behind-mystery-2024|FPRI — Havana Syndrome: The History Behind the Mystery]]

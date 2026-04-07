@@ -25,15 +25,15 @@ The University of Perelman School of Medicine at the University of Pennsylvania 
 
 ## Entities Connected
 
-- [[nasem-report-2020]] — Referenced UPenn study
-- [[nih-jama-studies-2024]] — Failed to replicate UPenn findings
+- [[nasem-report-2020|NASEM Report — An Assessment of Illness in U.S. Government Employees at Overseas Embassies]] — Referenced UPenn study
+- [[nih-jama-studies-2024|NIH Clinical Studies — No Detectable Brain Injury in Havana Syndrome Patients]] — Failed to replicate UPenn findings
 
 ## Concepts
 
-- [[anomalous-health-incidents]] — Subject of study
+- [[anomalous-health-incidents|Anomalous Health Incidents — Official Terminology]] — Subject of study
 - [[neuroimaging-abnormalities]] — Type of evidence sought
 
 ## Sources
 
-- [[nasem-report-2020]]
-- [[nih-jama-studies-2024]]
+- [[nasem-report-2020|NASEM Report — An Assessment of Illness in U.S. Government Employees at Overseas Embassies]]
+- [[nih-jama-studies-2024|NIH Clinical Studies — No Detectable Brain Injury in Havana Syndrome Patients]]

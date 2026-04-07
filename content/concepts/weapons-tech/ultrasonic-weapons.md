@@ -30,10 +30,10 @@ Ultrasonic weapons use directional sound at frequencies above the threshold of h
 
 ## Connected Concepts
 
-- [[directed-energy-weapons]] — Parent category
-- [[indies-short-tailed-cricket]] — Competing acoustic explanation
-- [[fry-effect]] — Alternative mechanism for auditory phenomena
+- [[directed-energy-weapons|Directed Energy Weapons]] — Parent category
+- [[indies-short-tailed-cricket|Indies Short-Tailed Cricket — Insect Sound Hypothesis]] — Competing acoustic explanation
+- [[fry-effect|Fry Effect — Microwave Auditory Phenomenon]] — Alternative mechanism for auditory phenomena
 
 ## Sources
 
-- [[giordano-ndm-2024]]
+- [[giordano-ndm-2024|Giordano — Directed Energy Remains Key Suspect Behind Havana Syndrome]]

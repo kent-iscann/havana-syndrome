@@ -37,9 +37,9 @@ The **Helping American Victims Afflicted by Neurological Attacks (HAVANA) Act of
 
 ## Connected Pages
 
-- [[havana-syndrome-symptoms]] — Symptoms qualifying for compensation
-- [[cia]] — Primary agency processing claims
-- [[senate-intel-committee-report-2024]] — Report on CIA claim handling
+- [[havana-syndrome-symptoms|Havana Syndrome — Clinical Symptoms]] — Symptoms qualifying for compensation
+- [[cia|Central Intelligence Agency (CIA)]] — Primary agency processing claims
+- [[senate-intel-committee-report-2024|Senate Intelligence Committee — CIA Mishandling of Havana Syndrome Cases]] — Report on CIA claim handling
 
 ## Sources
 

@@ -30,11 +30,11 @@ Mass psychogenic illness (MPI) — also called mass hysteria or collective delus
 
 ## Connected Concepts
 
-- [[anomalous-health-incidents]] — Subject of MPI debate
-- [[indies-short-tailed-cricket]] — Environmental alternative explanation
-- [[directed-energy-weapons]] — Competing explanation
+- [[anomalous-health-incidents|Anomalous Health Incidents — Official Terminology]] — Subject of MPI debate
+- [[indies-short-tailed-cricket|Indies Short-Tailed Cricket — Insect Sound Hypothesis]] — Environmental alternative explanation
+- [[directed-energy-weapons|Directed Energy Weapons]] — Competing explanation
 
 ## Sources
 
-- [[nih-jama-studies-2024]] — NIH found higher rates of PTSD/depression
-- [[fpri-history-behind-mystery-2024]]
+- [[nih-jama-studies-2024|NIH Clinical Studies — No Detectable Brain Injury in Havana Syndrome Patients]] — NIH found higher rates of PTSD/depression
+- [[fpri-history-behind-mystery-2024|FPRI — Havana Syndrome: The History Behind the Mystery]]

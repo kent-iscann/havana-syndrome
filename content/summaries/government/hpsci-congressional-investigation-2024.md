@@ -73,11 +73,11 @@ This investigation represents the most comprehensive **congressional challenge**
 
 ## Connected Pages
 
-- [[odni-assessment-2023-2025]] — IC assessment directly challenged
-- [[greg-edgreen]] — Key witness, found impossibly high evidence bar
-- [[mark-zaid]] — Shares "cover-up" allegations
+- [[odni-assessment-2023-2025|ODNI Assessment — Intelligence Community Evaluation of AHIs]] — IC assessment directly challenged
+- [[greg-edgreen|Greg Edgreen — DIA Investigator]] — Key witness, found impossibly high evidence bar
+- [[mark-zaid|Mark Zaid — Attorney for AHI Victims]] — Shares "cover-up" allegations
 - [[marc-polymeropoulos]] — Victim whose Purple Heart was rescinded
-- [[senate-intel-committee-report-2024]] — Parallel congressional investigation
+- [[senate-intel-committee-report-2024|Senate Intelligence Committee — CIA Mishandling of Havana Syndrome Cases]] — Parallel congressional investigation
 
 ## Sources
 

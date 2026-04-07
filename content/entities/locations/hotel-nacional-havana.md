@@ -19,10 +19,10 @@ The Hotel Nacional de Cuba, a historic luxury hotel in Havana. On August 22, 201
 
 ## Connected Pages
 
-- [[cia]] — Two CIA TDY officers were the victims
-- [[arb-report-2018]] — Document confirming the incident
+- [[cia|Central Intelligence Agency (CIA)]] — Two CIA TDY officers were the victims
+- [[arb-report-2018|Arb Report 2018 — Accountability Review Board]] — Document confirming the incident
 
 ## Sources
 
-- [[arb-report-2018]]
-- [[nsarchive-secrets-havana-syndrome-2021]]
+- [[arb-report-2018|Arb Report 2018 — Accountability Review Board]]
+- [[nsarchive-secrets-havana-syndrome-2021|National Security Archive — Secrets of the Havana Syndrome]]

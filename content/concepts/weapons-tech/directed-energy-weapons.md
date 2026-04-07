@@ -47,13 +47,13 @@ Directed energy weapons (DEWs) focus energy (electromagnetic, acoustic, or therm
 
 ## Connected Concepts
 
-- [[fry-effect]] — Auditory perception of pulsed RF
-- [[ultrasonic-weapons]] — Alternative DEW type
+- [[fry-effect|Fry Effect — Microwave Auditory Phenomenon]] — Auditory perception of pulsed RF
+- [[ultrasonic-weapons|Ultrasonic Weapons]] — Alternative DEW type
 - [[moskva-signal]] — Historical precedent (microwave irradiation)
-- [[optoacoustic-effect]] — 2026 laser hypothesis
+- [[optoacoustic-effect|Optoacoustic Effect — Pulsed Infrared Laser Hypothesis]] — 2026 laser hypothesis
 
 ## Sources
 
-- [[giordano-ndm-2024]]
-- [[fpri-history-behind-mystery-2024]]
-- [[directed-energy-evidence-debate]]
+- [[giordano-ndm-2024|Giordano — Directed Energy Remains Key Suspect Behind Havana Syndrome]]
+- [[fpri-history-behind-mystery-2024|FPRI — Havana Syndrome: The History Behind the Mystery]]
+- [[directed-energy-evidence-debate|Directed Energy Evidence Debate]]

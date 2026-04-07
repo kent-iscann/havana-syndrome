@@ -31,10 +31,10 @@ Gordon Corera's reporting represents major international public broadcaster cove
 
 ## Connected Pages
 
-- [[anomalous-health-incidents]] — Core subject matter
-- [[competing-causation-hypotheses]] — Theories examined in the documentary
-- [[gru-unit-29155-evidence]] — Attribution theory covered
-- [[60-minutes-investigation-2024]] — Comparable documentary investigation
+- [[anomalous-health-incidents|Anomalous Health Incidents — Official Terminology]] — Core subject matter
+- [[competing-causation-hypotheses|Competing Causation Hypotheses]] — Theories examined in the documentary
+- [[gru-unit-29155-evidence|GRU Unit 29155 — Evidence Assessment]] — Attribution theory covered
+- [[60-minutes-investigation-2024|60 Minutes Investigation — Havana Syndrome & The Russian Nexus]] — Comparable documentary investigation
 
 ## Sources
 

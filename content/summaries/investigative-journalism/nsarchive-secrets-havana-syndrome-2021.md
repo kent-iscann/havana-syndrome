@@ -45,16 +45,16 @@ The National Security Archive published a comprehensive briefing book compiling 
 
 ## Entities Mentioned
 
-- [[state-department]] — Primary subject of ARB criticism
-- [[cia]] — Intelligence agency, withdrawal from Cuba, "excessive secrecy"
+- [[state-department|State Department — U.S. Department of State]] — Primary subject of ARB criticism
+- [[cia|Central Intelligence Agency (CIA)]] — Intelligence agency, withdrawal from Cuba, "excessive secrecy"
 - [[rex-tillerson]] — Secretary of State during crisis
-- [[guangzhou-consulate]] — Confirmed case outside Cuba
-- [[odni]] — Intelligence community coordination role
+- [[guangzhou-consulate|Guangzhou Consulate — U.S. Consulate, China]] — Confirmed case outside Cuba
+- [[odni|ODNI — Office of the Director of National Intelligence]] — Intelligence community coordination role
 
 ## Concepts
 
-- [[anomalous-health-incidents]] — Condition under investigation
-- [[directed-energy-weapons]] — Possible cause, unknown mechanism
+- [[anomalous-health-incidents|Anomalous Health Incidents — Official Terminology]] — Condition under investigation
+- [[directed-energy-weapons|Directed Energy Weapons]] — Possible cause, unknown mechanism
 
 ## Source
 

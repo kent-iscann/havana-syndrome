@@ -138,19 +138,19 @@ The Canadian Embassy personnel in Havana reported chronic symptoms (vertigo, tin
 
 ## Entities Connected
 
-- [[david-relman]] — Committee chair
-- [[cdc]] — Referenced for final report
-- [[nih]] — Provided clinical team presentations
-- [[university-of-pennsylvania]] — Clinical data source
-- [[university-of-miami]] — Clinical data source
-- [[dalhousie-university]] — Canadian cohort study
+- [[david-relman|David Relman — Stanford Professor, NASEM Committee Lead]] — Committee chair
+- [[cdc|CDC — Centers for Disease Control and Prevention]] — Referenced for final report
+- [[nih|NIH — National Institutes of Health]] — Provided clinical team presentations
+- [[university-of-pennsylvania|University of Pennsylvania — Clinical Study on Havana Syndrome]] — Clinical data source
+- [[university-of-miami|University of Miami — Clinical Data on Havana Syndrome]] — Clinical data source
+- [[dalhousie-university|Dalhousie University — Canadian Havana Syndrome Study]] — Canadian cohort study
 
 ## Concepts
 
-- [[fry-effect]] — Key mechanism identified by committee
-- [[persistent-postural-perceptual-dizziness]] — Secondary diagnosis in 25% of cases
-- [[directed-energy-weapons]] — Most plausible category
-- [[pulsed-rf-microwave]] — Specific RF mechanism
+- [[fry-effect|Fry Effect — Microwave Auditory Phenomenon]] — Key mechanism identified by committee
+- [[persistent-postural-perceptual-dizziness|Persistent Postural-Perceptual Dizziness (PPPD)]] — Secondary diagnosis in 25% of cases
+- [[directed-energy-weapons|Directed Energy Weapons]] — Most plausible category
+- [[pulsed-rf-microwave|Pulsed RF/Microwave Radiation]] — Specific RF mechanism
 
 ## Sources
 

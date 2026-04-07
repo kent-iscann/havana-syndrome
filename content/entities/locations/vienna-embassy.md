@@ -19,8 +19,8 @@ U.S. Embassy in Vienna, Austria. Has recorded the **highest number of AHI cases 
 
 ## Connected Pages
 
-- [[cia]] — Vienna is a major intelligence hub
-- [[directed-energy-weapons]] — Suspected cause at Vienna too
+- [[cia|Central Intelligence Agency (CIA)]] — Vienna is a major intelligence hub
+- [[directed-energy-weapons|Directed Energy Weapons]] — Suspected cause at Vienna too
 
 ## Sources
 
