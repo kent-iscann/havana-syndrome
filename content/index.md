@@ -3,7 +3,7 @@ title: "Havana Syndrome — Executive Overview"
 ---
 
 **Status as of:** April 2026  
-**Wiki Version:** v5 (88 pages — 27 summaries, 5 analysis pages, 30+ entity/concept entries, 150+ raw sources)
+**Wiki Version:** v6 (93 pages — 33 summaries, 4 analysis pages, 4 reference pages, 30+ entity/concept entries, 150+ raw sources)
 
 ---
 
@@ -90,8 +90,6 @@ A Czech Academy fellow proposed that **pulsed infrared lasers** could create aco
 ### Compensation
 The **HAVANA Act of 2021** (PL 117-46) provides compensation for brain injury victims. Over $50M has been paid to affected personnel. The Purple Heart medal for AHI victims remains under debate.
 
----
-
 ## Media Coverage Landscape
 
 ### Podcasts
@@ -138,23 +136,28 @@ The **HAVANA Act of 2021** (PL 117-46) provides compensation for brain injury vi
 ## Key Documents in This Wiki
 
 ### Reports Every Analyst Should Read
-1. **[[nasem-report-2020|NASEM Report — An Assessment of Illness in U.S. Government Employees]]** — The scientific foundation: declares directed RF "most plausible"
+1. **[[nasem-report-2020|NASEM Report — An Assessment of Illness in U.S. Government Employees at Overseas Embassies]]** — The scientific foundation: declares directed RF "most plausible"
 2. **[[odni-assessment-2023-2025|ODNI Assessment — Intelligence Community Evaluation of AHIs]]** — The official intelligence community position
 3. **[[gru-unit-29155-evidence|GRU Unit 29155 — Evidence Assessment]]** — The evidence for Russian attribution
 4. **[[competing-causation-hypotheses|Competing Causation Hypotheses]]** — Systematic comparison of all theories
 5. **[[60-minutes-investigation-2024|60 Minutes Investigation — Havana Syndrome & The Russian Nexus]]** — The most comprehensive journalistic investigation
 6. **[[venezuela-device-recovery-2026|Venezuela / Directed Energy Device Recovery — 2026]]** — The first physical device evidence
-7. **[[moscow-signal-precedent|The Moscow Signal Precedent]]** — Historical context from the Cold War
+7. **[[moscow-signal-precedent|The Moscow Signal Precedent]]** — Historical context from the Cold War (1953–1970s Moscow Signal)
 
-### Key Analysis Pages
-8. **[[master-timeline|Master Timeline]]** — Chronological overview from the Moscow Signal (1953) through 2026
+### Reference Data
+8. **[[master-timeline|Master Timeline]]** — Full chronological timeline from the Moscow Signal through 2026
 9. **[[victim-statistics|Victim Statistics & Data]]** — Numbers by agency, location, and compensation
-10. **[[international-coverage|International Coverage]]** — Non-Anglosphere media and government positions
+10. **[[global-incident-map|Global Incident Map]]** — Geographic and temporal mapping of all documented AHIs
+
+### Key Analysis
+11. **[[international-coverage|International Coverage]]** — Non-Anglosphere media and government perspectives
+12. **[[havana-syndrome-2026-developments|2026 Current Developments]]** — Latest news including device testing and political shifts
 
 ### Key Entities to Know
+### Key Entities to Know
 - **[[gru-unit-29155|GRU Unit 29155]]** — Russian military intelligence unit linked to covert ops
-- **[[james-giordano|James Giordano]]** — Neuroscientist who evaluated original Havana victims
 - **[[christo-grozev|Christo Grozev]]** — Journalist who found the "receipt" for acoustic weapons
+- **[[james-giordano|James Giordano]]** — Georgetown neuroscientist, lead forensic evaluator of original Havana victims
 - **[[mark-lenzi|Mark Lenzi]]** — State Department officer, victim, and whistleblower
 - **[[diane-dieuliis|Diane DiEuliis]]** — NDU researcher, co-author of key biosecurity analysis
 
