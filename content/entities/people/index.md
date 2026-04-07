@@ -1,3 +1,3 @@
 ---
-title: "Entities — People"
+title: "People"
 ---

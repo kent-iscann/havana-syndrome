@@ -1,3 +1,3 @@
 ---
-title: "Legislative Response & Policy"
+title: "Legislative Response"
 ---

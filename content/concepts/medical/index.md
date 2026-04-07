@@ -1,3 +1,3 @@
 ---
-title: "Concepts — Medical"
+title: "Medical"
 ---

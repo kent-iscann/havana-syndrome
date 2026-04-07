@@ -1,3 +1,3 @@
 ---
-title: "Entities — Locations"
+title: "Locations"
 ---

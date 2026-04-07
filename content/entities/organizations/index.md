@@ -1,3 +1,3 @@
 ---
-title: "Entities — Organizations"
+title: "Organizations"
 ---

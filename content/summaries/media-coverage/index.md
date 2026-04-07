@@ -1,3 +1,3 @@
 ---
-title: "Media Coverage & Commentary"
+title: "Media Coverage"
 ---

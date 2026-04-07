@@ -1,3 +1,3 @@
 ---
-title: "Concepts — Weapons & Technology"
+title: "Weapons & Technology"
 ---

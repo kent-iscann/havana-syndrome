@@ -1,3 +1,3 @@
 ---
-title: "Scientific & Medical Studies"
+title: "Medical Science"
 ---
