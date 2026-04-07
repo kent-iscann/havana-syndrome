@@ -3,7 +3,7 @@
 Persistent knowledge base on Anomalous Health Incidents (AHIs). LLM-generated and maintained.
 See [[SCHEMA.md]] for conventions.
 
-Last updated: 2026-04-13 (v3)
+Last updated: 2026-04-13 (v4)
 
 ## Timeline Overview
 

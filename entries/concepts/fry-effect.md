@@ -19,13 +19,25 @@ The Fry Effect is the leading candidate to explain the **unusual auditory experi
 - Can be highly directional and room-specific
 - Is consistent with the "directional locational specific features" noted by NASEM
 
+## Key Technical Parameters
+
+- **Frequency range:** 200 MHz to at least 3 GHz
+- **Perception thresholds:** 
+  - 1.3 GHz: 267 mW/cm² (peak)
+  - 2.9 GHz: 5,000 mW/cm² (peak)
+- **Distance:** Subjects can hear pulses from inches to hundreds of feet
+- **Perceived as:** Buzz, clicking, hiss, knocking
+- **Internal generation:** Covering ears provides no relief
+
 ## Connected Concepts
 
 - [[directed-energy-weapons]] — Primary weapon mechanism
 - [[pulsed-rf-microwave]] — Energy type producing the effect
-- [[indies-short-tailed-cricket]] — Alternative explanation for the sounds
+- [[indies-short-talled-cricket]] — Alternative explanation for the sounds
+- [[allan-frey]] — Discoverer of the effect
 
 ## Sources
 
+- [[allan-frey]] — Original discoverer
 - [[giordano-ndm-2024]] — Cites Fry Effect as mechanism consistent with patient presentation
 - [[fpri-history-behind-mystery-2024]]
