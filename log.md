@@ -33,7 +33,19 @@ Chronological record of ingest, query, and lint actions.
 
 ---
 
-## [2026-04-06] init | Wiki bootstrap and first ingest batch
+## [2026-04-13] ingest | JASON report, Frey, FBI, HPSCI, treatments, Venezuela device, global map, GAC Canada
+
+**High priority gaps filled:**
+- JASON Report 2018: cricket sounds, directed RF "highly unlikely" — NASEM never shown this report
+- Allan H. Frey: discovered microwave auditory effect 1961 — the mechanism NASEM called "most plausible"
+- FBI Investigation 2017-2018: BAU concluded mass psychogenic illness; 80-hr Kovalev interview
+- HPSCI Congressional Investigation (Dec 2024): "increasingly likely" foreign adversary, 7,500+ pages reviewed
+- Treatments/Purple Heart: HBOT results, Purple Heart approved then rescinded for Polymeropoulos
+- Venezuela/Device Recovery 2026: backpack-sized pulsed RF device from Russian criminal network
+
+**Medium priority gaps filled:**
+- Global Affairs Canada (Aug 2024): "not result of malicious act" — 7-year investigation, RCMP Project Spectre
+- Global Incident Map: complete geographic/temporal mapping 2014-2026 across 17 countries
 
 Initialized the Havana Syndrome knowledge base based on Karpathy's LLM Wiki pattern.
 Repository: https://github.com/kent-iscann/havana-syndrome

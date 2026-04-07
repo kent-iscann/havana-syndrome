@@ -3,7 +3,7 @@
 Persistent knowledge base on Anomalous Health Incidents (AHIs). LLM-generated and maintained.
 See [[SCHEMA.md]] for conventions.
 
-Last updated: 2026-04-13 (v4)
+Last updated: 2026-04-13 (v5)
 
 ## Timeline Overview
 
@@ -53,12 +53,20 @@ Last updated: 2026-04-13 (v4)
 
 **Legislative & Institutional Response**
 - [[havana-act-2021]] — HAVANA Act of 2021 (PL 117-46)
+- [[hpsci-congressional-investigation-2024]] — House Intel Committee: "increasingly likely" foreign adversary (Dec 2024)
 - [[guantanamo-gao-report-2024]] — GAO report on AHI care access (2024)
+- [[treatments-and-recovery]] — Treatments, Purple Heart debate, HBOT
 
 **Investigative Journalism**
 - [[fpri-history-behind-mystery-2024]] — FPRI: history connecting Moscow Signal to Havana Syndrome (Apr 2024)
 - [[60-minutes-2024-2026]] — 60 Minutes/The Insider/Der Spiegel joint investigation
-- [[60-minutes-investigation-2024]] — 60 Minutes full transcript: Grozev, Edgreen, Kovalev, Avarionov, Troye (Apr 2026)
+- [[60-minutes-investigation-2024]] — 60 Minutes full transcript: Grozev, Edgreen, Kovalev, Avarionov, Troye
+- [[venezuela-device-recovery-2026]] — Backpack-sized RF device recovered from Russian criminal network
+
+**Other Investigations**
+- [[jason-report-2018]] — JASON advisory: cricket sounds, directed RF "highly unlikely" (2018/2022)
+- [[fbi-investigation-2017-2018]] — FBI BAU: mass psychogenic illness (2018)
+- [[global-affairs-canada-2024]] — Canada GAC: "not result of malicious act by foreign actor" (Aug 2024)
 
 ## Entities
 
@@ -95,6 +103,9 @@ Last updated: 2026-04-13 (v4)
 - [[guangzhou-consulate]] — U.S. Consulate in China, site of AHI reporting (2018)
 - [[vienna-embassy]] — U.S. Embassy Vienna, highest AHI count outside Havana
 - [[hotel-nacional-havana]] — Site of Aug 22, 2017 incident involving CIA TDY personnel
+- [[frankfurt-germany]] — Earliest reported location (2014)
+- [[tbilisi-georgia]] — Multiple 2021 incidents, Avarionov identified
+- [[vilnius-nato-summit]] — 2023 NATO Summit incident
 
 ## Concepts
 
@@ -125,6 +136,8 @@ Last updated: 2026-04-13 (v4)
 - [[gru-unit-29155-evidence]] — Assessment of evidence linking Russia to AHIs
 - [[directed-energy-evidence-debate]] — Directed energy vs. alternative hypotheses
 - [[competing-causation-hypotheses]] — Systematic comparison of all major hypotheses
+- [[global-incident-map]] — Geographic and temporal mapping of all documented incidents
+- [[treatments-and-recovery]] — Medical treatments, Purple Heart debate, HBOT outcomes
 
 ## Quick Reference
 
