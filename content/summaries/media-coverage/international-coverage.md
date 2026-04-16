@@ -1,5 +1,5 @@
 ---
-title: "International Coverage: Non-English Media and Government Perspectives on Havana Syndrome"
+title: "International Coverage"
 ---
 
 
