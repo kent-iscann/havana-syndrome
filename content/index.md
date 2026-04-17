@@ -11,7 +11,7 @@ title: "Executive Overview"
 
 Anomalous Health Incidents (AHIs), commonly called "Havana Syndrome," are a class of unexplained medical events reported by U.S. and allied diplomatic, intelligence, and military personnel worldwide since late 2016. Affected individuals report sudden-onset symptoms including directional pressure, piercing sounds, vertigo, cognitive dysfunction, and sleep disruption — often with immediate relief upon leaving the affected area.
 
-This wiki is a comprehensive knowledge base tracking every major investigation, report, and development. It covers **88 pages** of sourced material spanning government assessments, scientific studies, investigative journalism, and independent analyses. **The case remains officially unresolved.**
+This wiki is a comprehensive knowledge base tracking every major investigation, report, and development. It covers **94 pages** of sourced material spanning government assessments, scientific studies, investigative journalism, and independent analyses. **The case remains officially unresolved.**
 
 ---
 
