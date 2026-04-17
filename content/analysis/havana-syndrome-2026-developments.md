@@ -1,5 +1,5 @@
 ---
-title: "Havana Syndrome — 2026 Current Developments"
+title: "2026 Developments"
 ---
 
 **Source:** Multiple
