@@ -1,5 +1,5 @@
 ---
-title: "Havana Syndrome — Executive Overview"
+title: "Executive Overview"
 ---
 
 **Status as of:** April 2026  
